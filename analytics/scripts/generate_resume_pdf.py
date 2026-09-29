@@ -96,7 +96,7 @@ def build_resume_pdf(output_path):
     story.append(Spacer(1, 3))
     story.append(Paragraph("Dindigul, Tamil Nadu, India &nbsp;|&nbsp; 9025780017 &nbsp;|&nbsp; maragathalakshmi4@gmail.com", header_sub_style))
     story.append(Spacer(1, 2))
-    story.append(Paragraph('<a href="https://linkedin.com/in/maragathalakshmi-b-3671082b7"><u>linkedin.com/in/maragathalakshmi-b-3671082b7</u></a> &nbsp;|&nbsp; <a href="https://github.com/BMaragathalakshmi/data-analyst-portfolio"><u>Portfolio</u></a>', header_link_style))
+    story.append(Paragraph('<a href="https://linkedin.com/in/maragathalakshmi-b-3671082b7"><u>linkedin.com/in/maragathalakshmi-b-3671082b7</u></a> &nbsp;|&nbsp; <a href="https://lighthearted-babka-8a1319.netlify.app"><u>Portfolio</u></a>', header_link_style))
     story.append(Spacer(1, 7))
 
     def add_section_header(title):

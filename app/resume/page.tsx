@@ -87,7 +87,7 @@ export default function ResumePage() {
             </a>
             <span className="text-[#64748b]">|</span>
             <a 
-              href="https://github.com/BMaragathalakshmi/data-analyst-portfolio" 
+              href="https://lighthearted-babka-8a1319.netlify.app" 
               target="_blank" 
               rel="noreferrer"
               className="hover:underline font-medium text-[#1d4ed8]"
