@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Vintage Linen Theme (Warm Cream & Terracotta) */
+  --bg-base: #f4efe6;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #eae1d2;
+  --bg-subtle: #eee6d8;
+  --text-primary: #1e2422;
+  --text-secondary: #4a5550;
+  --text-muted: #738078;
+  --border-color: #d8cdbe;
+  --accent-primary: #c2593f;
+  --accent-secondary: #2d5a4a;
+  --accent-pill-bg: #faebe7;
+  --accent-pill-text: #b84327;
+  --card-shadow: 0 10px 25px -10px rgba(80, 50, 20, 0.12);
+  --radial-orb: repeating-radial-gradient(rgba(194, 89, 63, 0.2) 2px, #f4efe6 5px, #f4efe6 100px);
+}
+
+body {
+  background-color: var(--bg-base);
+  background-image: 
+    radial-gradient(circle at 15% 15%, rgba(194, 89, 63, 0.08) 0%, transparent 45%),
+    radial-gradient(circle at 85% 75%, rgba(45, 90, 74, 0.06) 0%, transparent 45%);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Glass Card Utility */
+.glass-card {
+  background-color: var(--bg-surface);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+  color: var(--text-primary);
+}
+
+/* Minimal Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d8cdbe;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c2593f;
+}
+
+::selection {
+  background-color: var(--accent-pill-bg);
+  color: var(--accent-primary);
+}
+
+.human-input {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  backdrop-filter: blur(12px);
+}
+
+.human-input:focus {
+  border-color: var(--accent-primary);
+  outline: none;
+  box-shadow: 0 0 0 2px var(--accent-pill-bg);
+}
+

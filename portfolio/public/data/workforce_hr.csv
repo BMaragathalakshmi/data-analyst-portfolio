@@ -1,0 +1,501 @@
+employee_id,department,job_role,age,tenure_years,monthly_income,job_satisfaction,overtime,attrition
+EMP-101,Finance,Compliance Officer,34,6.8,9353,1,No,Yes
+EMP-102,Finance,Compliance Officer,26,5,6955,4,No,No
+EMP-103,Marketing,Growth Lead,24,3,6603,5,No,No
+EMP-104,Engineering,Data Engineer,25,4,8296,3,No,No
+EMP-105,Finance,Compliance Officer,25,4,6329,5,No,No
+EMP-106,Sales,Sales Representative,34,0.7,6606,4,No,No
+EMP-107,Sales,Sales Representative,40,10.2,8275,4,Yes,No
+EMP-108,Engineering,Software Engineer,29,8,11507,1,No,Yes
+EMP-109,Finance,Compliance Officer,51,7.9,7930,4,Yes,No
+EMP-110,Finance,Accountant,23,2,5386,5,Yes,No
+EMP-111,Human Resources,Talent Lead,44,0.9,6289,4,No,No
+EMP-112,Finance,Compliance Officer,26,5,7568,2,No,No
+EMP-113,Sales,Sales Executive,24,3,4417,1,Yes,No
+EMP-114,Engineering,Software Engineer,28,7,10290,5,Yes,No
+EMP-115,Finance,Financial Analyst,42,4.1,6638,5,Yes,No
+EMP-116,Operations,Operations Manager,46,15.0,8848,3,No,No
+EMP-117,Human Resources,HR Generalist,23,2,5744,3,Yes,No
+EMP-118,Engineering,Data Engineer,43,5.1,6841,1,Yes,Yes
+EMP-119,Finance,Compliance Officer,56,4.8,6885,5,Yes,No
+EMP-120,Operations,Operations Manager,39,11.2,8331,2,No,No
+EMP-121,Human Resources,Talent Lead,28,4.3,5739,5,Yes,No
+EMP-122,Operations,Logistics Coordinator,52,3.7,4653,2,No,No
+EMP-123,Finance,Compliance Officer,34,7.6,8597,2,No,No
+EMP-124,Finance,Accountant,40,4.4,7572,5,No,No
+EMP-125,Finance,Financial Analyst,38,10.5,7709,5,Yes,No
+EMP-126,Operations,Logistics Coordinator,26,5,5376,2,Yes,Yes
+EMP-127,Marketing,Content Specialist,50,2.6,6049,1,Yes,Yes
+EMP-128,Human Resources,Recruiter,34,13,7897,2,Yes,No
+EMP-129,Finance,Accountant,35,6.5,9398,3,No,No
+EMP-130,Marketing,Growth Lead,36,7.0,6757,3,Yes,No
+EMP-131,Operations,Operations Manager,46,3.7,6981,5,No,No
+EMP-132,Operations,Procurement Officer,41,11.3,7594,1,Yes,No
+EMP-133,Engineering,Software Engineer,23,2,7158,5,No,No
+EMP-134,Marketing,SEO Analyst,39,9.0,8411,4,Yes,No
+EMP-135,Marketing,Content Specialist,43,5.7,6990,2,Yes,Yes
+EMP-136,Engineering,Software Engineer,51,6.5,6833,1,No,Yes
+EMP-137,Marketing,Content Specialist,48,2.2,7720,3,Yes,No
+EMP-138,Marketing,SEO Analyst,56,11.3,8965,2,No,No
+EMP-139,Sales,Account Manager,43,2.0,8221,5,No,No
+EMP-140,Finance,Compliance Officer,32,0.9,7987,1,Yes,Yes
+EMP-141,Sales,Sales Executive,30,4.8,5859,1,No,No
+EMP-142,Human Resources,HR Generalist,26,5,6612,2,Yes,Yes
+EMP-143,Sales,Sales Executive,26,2.7,7404,1,No,No
+EMP-144,Sales,Sales Representative,56,10.1,8239,2,Yes,No
+EMP-145,Engineering,Software Engineer,47,4.8,8168,5,Yes,No
+EMP-146,Finance,Accountant,47,13.7,11801,5,Yes,No
+EMP-147,Engineering,QA Specialist,56,13.3,10919,2,Yes,Yes
+EMP-148,Human Resources,HR Generalist,30,9,7423,2,Yes,No
+EMP-149,Marketing,Growth Lead,32,10.4,9598,3,Yes,No
+EMP-150,Engineering,Data Engineer,32,11,7985,5,No,No
+EMP-151,Engineering,QA Specialist,23,2,6624,3,Yes,No
+EMP-152,Engineering,QA Specialist,31,9.2,9776,5,No,No
+EMP-153,Finance,Compliance Officer,24,3,5052,4,Yes,No
+EMP-154,Human Resources,Recruiter,43,1.8,4322,5,Yes,No
+EMP-155,Marketing,Growth Lead,25,4,5074,2,Yes,Yes
+EMP-156,Finance,Compliance Officer,57,7.2,10251,3,Yes,No
+EMP-157,Sales,Sales Executive,25,4,8513,1,Yes,Yes
+EMP-158,Operations,Operations Manager,33,8.4,7748,4,Yes,No
+EMP-159,Human Resources,Recruiter,37,2.7,6624,1,No,Yes
+EMP-160,Sales,Sales Executive,37,13.3,10487,2,Yes,Yes
+EMP-161,Engineering,Data Engineer,40,14.2,9259,4,Yes,No
+EMP-162,Operations,Procurement Officer,45,5.4,6394,2,No,No
+EMP-163,Marketing,Growth Lead,54,8.8,9120,5,Yes,No
+EMP-164,Marketing,Growth Lead,30,7.3,6915,1,Yes,Yes
+EMP-165,Marketing,Content Specialist,55,4.2,7671,3,No,No
+EMP-166,Finance,Accountant,29,8,8558,5,No,No
+EMP-167,Sales,Sales Executive,48,12.9,11243,1,No,Yes
+EMP-168,Finance,Accountant,57,10.9,11540,5,Yes,No
+EMP-169,Marketing,Growth Lead,29,8,8587,5,No,No
+EMP-170,Finance,Financial Analyst,48,13.8,11873,5,Yes,No
+EMP-171,Engineering,QA Specialist,58,4.7,7277,5,No,No
+EMP-172,Sales,Sales Executive,32,11,7245,5,No,No
+EMP-173,Engineering,QA Specialist,40,2.4,7208,5,No,No
+EMP-174,Human Resources,Recruiter,49,14.5,8910,1,Yes,Yes
+EMP-175,Sales,Account Manager,46,6.3,9184,5,Yes,No
+EMP-176,Engineering,Software Engineer,35,4.2,7454,3,No,No
+EMP-177,Human Resources,Talent Lead,31,9.5,6453,5,No,No
+EMP-178,Sales,Account Manager,41,3.9,6970,5,Yes,No
+EMP-179,Engineering,Software Engineer,45,7.0,9488,1,No,Yes
+EMP-180,Engineering,QA Specialist,50,14.9,12708,5,No,No
+EMP-181,Operations,Operations Manager,57,9.8,8119,5,Yes,No
+EMP-182,Finance,Accountant,46,9.7,9067,5,Yes,No
+EMP-183,Sales,Sales Executive,28,3.2,5031,2,No,No
+EMP-184,Finance,Compliance Officer,23,2,8593,4,Yes,No
+EMP-185,Operations,Logistics Coordinator,41,8.6,6837,2,Yes,No
+EMP-186,Finance,Financial Analyst,40,12.5,10689,3,No,No
+EMP-187,Engineering,QA Specialist,31,6.4,9014,3,No,No
+EMP-188,Human Resources,Talent Lead,26,5,7084,2,Yes,No
+EMP-189,Marketing,SEO Analyst,43,14.7,8904,1,No,No
+EMP-190,Marketing,SEO Analyst,24,3,4664,2,No,No
+EMP-191,Engineering,Software Engineer,29,8,9259,4,Yes,No
+EMP-192,Engineering,Software Engineer,46,8.2,10037,5,No,No
+EMP-193,Sales,Sales Representative,55,3.3,7313,5,No,No
+EMP-194,Engineering,Data Engineer,50,6.9,8385,3,No,No
+EMP-195,Operations,Logistics Coordinator,30,5.5,6447,5,Yes,No
+EMP-196,Sales,Sales Representative,26,5,9114,3,No,No
+EMP-197,Sales,Sales Executive,30,9,10207,3,Yes,No
+EMP-198,Human Resources,HR Generalist,35,12.8,8275,2,No,No
+EMP-199,Sales,Account Manager,53,8.4,6708,3,Yes,No
+EMP-200,Operations,Logistics Coordinator,42,1.2,4115,4,No,No
+EMP-201,Sales,Sales Representative,38,12.6,7515,4,Yes,No
+EMP-202,Sales,Sales Executive,22,1,7804,1,No,Yes
+EMP-203,Finance,Accountant,53,11.9,11068,5,Yes,No
+EMP-204,Finance,Financial Analyst,56,10.4,10288,3,No,No
+EMP-205,Human Resources,Talent Lead,29,7.1,6765,1,Yes,Yes
+EMP-206,Engineering,Data Engineer,56,2.6,6130,2,No,No
+EMP-207,Engineering,Data Engineer,56,14.8,12077,1,Yes,Yes
+EMP-208,Finance,Accountant,51,11.4,10072,1,Yes,Yes
+EMP-209,Engineering,Data Engineer,24,3,8651,2,No,No
+EMP-210,Operations,Logistics Coordinator,41,13.3,8503,3,No,No
+EMP-211,Engineering,QA Specialist,50,1.8,6180,2,Yes,Yes
+EMP-212,Finance,Accountant,39,6.0,8008,1,No,Yes
+EMP-213,Finance,Compliance Officer,49,7.8,10659,2,No,No
+EMP-214,Operations,Procurement Officer,22,1,6136,2,No,No
+EMP-215,Human Resources,Recruiter,43,10.4,9371,5,No,No
+EMP-216,Marketing,Growth Lead,33,12,7679,4,Yes,No
+EMP-217,Operations,Logistics Coordinator,56,11.2,9801,3,Yes,No
+EMP-218,Marketing,Growth Lead,32,4.3,7676,3,No,No
+EMP-219,Sales,Sales Representative,32,6.4,8417,5,Yes,No
+EMP-220,Finance,Compliance Officer,47,5.9,9507,1,No,No
+EMP-221,Operations,Operations Manager,38,3.8,4917,2,Yes,No
+EMP-222,Finance,Accountant,32,1.2,4905,5,No,No
+EMP-223,Marketing,Content Specialist,42,4.8,5540,1,No,Yes
+EMP-224,Finance,Financial Analyst,37,12.1,11228,4,Yes,No
+EMP-225,Marketing,Content Specialist,24,3,8147,2,Yes,No
+EMP-226,Sales,Account Manager,22,1,6094,2,No,No
+EMP-227,Finance,Accountant,48,1.3,6881,3,Yes,No
+EMP-228,Sales,Account Manager,43,7.9,7239,3,No,No
+EMP-229,Sales,Sales Representative,30,4.9,9226,5,Yes,No
+EMP-230,Engineering,Software Engineer,31,10,10495,3,Yes,No
+EMP-231,Marketing,Growth Lead,26,3.5,5535,3,Yes,No
+EMP-232,Marketing,Growth Lead,40,12.8,9677,5,Yes,No
+EMP-233,Human Resources,Recruiter,50,10.9,7697,3,Yes,No
+EMP-234,Marketing,Growth Lead,35,14,8359,1,Yes,Yes
+EMP-235,Finance,Financial Analyst,22,1,5532,5,Yes,No
+EMP-236,Sales,Sales Representative,57,7.2,8967,1,Yes,Yes
+EMP-237,Marketing,Growth Lead,45,8.6,9400,3,No,No
+EMP-238,Human Resources,Talent Lead,57,4.0,6014,1,Yes,Yes
+EMP-239,Sales,Sales Executive,50,11.9,9781,2,Yes,Yes
+EMP-240,Finance,Compliance Officer,35,11.2,9852,2,Yes,No
+EMP-241,Sales,Sales Executive,32,5.2,6056,3,No,No
+EMP-242,Marketing,Growth Lead,29,7.6,6737,4,No,No
+EMP-243,Marketing,Growth Lead,58,12.3,7911,4,No,No
+EMP-244,Engineering,Software Engineer,58,3.0,6150,1,Yes,Yes
+EMP-245,Operations,Operations Manager,30,8.9,9397,5,Yes,No
+EMP-246,Marketing,Growth Lead,25,4,7735,2,No,No
+EMP-247,Finance,Compliance Officer,54,13.0,9440,4,Yes,No
+EMP-248,Sales,Sales Representative,56,6.2,9387,1,No,Yes
+EMP-249,Human Resources,Talent Lead,27,6,8044,5,Yes,No
+EMP-250,Engineering,Software Engineer,58,2.9,9058,5,Yes,No
+EMP-251,Engineering,QA Specialist,34,13,10217,5,Yes,No
+EMP-252,Human Resources,HR Generalist,31,10,8581,1,Yes,Yes
+EMP-253,Finance,Compliance Officer,27,2.2,7919,4,No,No
+EMP-254,Operations,Procurement Officer,55,11.5,8286,2,No,No
+EMP-255,Sales,Sales Representative,22,1,6773,4,Yes,No
+EMP-256,Engineering,Software Engineer,40,0.8,8139,5,Yes,No
+EMP-257,Sales,Sales Representative,40,5.9,7813,1,Yes,No
+EMP-258,Engineering,Software Engineer,58,9.1,10944,2,Yes,Yes
+EMP-259,Human Resources,Recruiter,57,5.2,7733,3,Yes,No
+EMP-260,Engineering,Software Engineer,52,14.0,9035,4,Yes,No
+EMP-261,Human Resources,Talent Lead,27,6,6036,5,No,No
+EMP-262,Marketing,Growth Lead,32,11,7936,1,No,No
+EMP-263,Finance,Compliance Officer,50,5.8,7320,3,Yes,No
+EMP-264,Sales,Account Manager,52,12.7,8185,2,Yes,Yes
+EMP-265,Engineering,QA Specialist,48,8.5,9126,1,Yes,Yes
+EMP-266,Operations,Procurement Officer,45,7.0,5847,2,Yes,Yes
+EMP-267,Engineering,Software Engineer,25,4,7280,2,No,No
+EMP-268,Marketing,Content Specialist,47,3.0,5312,2,No,No
+EMP-269,Operations,Operations Manager,38,7.7,6437,2,No,No
+EMP-270,Sales,Account Manager,38,12.7,7726,4,No,No
+EMP-271,Engineering,Software Engineer,25,4,7694,4,Yes,No
+EMP-272,Engineering,Data Engineer,53,10.2,11925,1,Yes,Yes
+EMP-273,Operations,Procurement Officer,39,8.8,8139,3,Yes,No
+EMP-274,Finance,Accountant,53,14.0,8400,4,No,No
+EMP-275,Operations,Logistics Coordinator,48,6.0,6928,5,Yes,No
+EMP-276,Human Resources,Recruiter,58,4.4,5349,2,No,No
+EMP-277,Finance,Compliance Officer,29,8,10238,4,Yes,No
+EMP-278,Engineering,Software Engineer,51,1.2,8935,4,Yes,No
+EMP-279,Operations,Procurement Officer,38,1.9,6075,5,No,No
+EMP-280,Sales,Sales Executive,27,6,7598,1,Yes,No
+EMP-281,Marketing,Growth Lead,56,2.5,5817,1,No,No
+EMP-282,Marketing,Growth Lead,22,1,4253,1,Yes,Yes
+EMP-283,Engineering,Data Engineer,47,1.8,9674,1,No,Yes
+EMP-284,Finance,Financial Analyst,51,11.0,10012,4,No,No
+EMP-285,Sales,Sales Representative,29,4.3,6609,1,Yes,Yes
+EMP-286,Operations,Procurement Officer,57,8.6,8744,3,No,No
+EMP-287,Sales,Account Manager,24,3,5613,4,No,No
+EMP-288,Engineering,Data Engineer,50,7.9,7035,2,No,No
+EMP-289,Finance,Financial Analyst,48,4.5,6414,5,Yes,No
+EMP-290,Finance,Financial Analyst,49,2.5,7488,3,Yes,No
+EMP-291,Finance,Financial Analyst,27,4.8,6611,2,Yes,No
+EMP-292,Sales,Sales Representative,48,2.1,5922,2,No,No
+EMP-293,Finance,Compliance Officer,28,6.3,8095,1,Yes,Yes
+EMP-294,Operations,Logistics Coordinator,34,10.6,8214,3,Yes,No
+EMP-295,Finance,Financial Analyst,38,9.1,9884,5,No,No
+EMP-296,Finance,Financial Analyst,28,4.4,9042,4,No,No
+EMP-297,Operations,Operations Manager,38,8.4,8320,5,No,No
+EMP-298,Marketing,SEO Analyst,46,8.7,9857,1,Yes,Yes
+EMP-299,Engineering,QA Specialist,52,14.9,12156,2,Yes,Yes
+EMP-300,Finance,Compliance Officer,57,12.2,8046,2,No,No
+EMP-301,Marketing,SEO Analyst,25,4,7329,1,No,Yes
+EMP-302,Marketing,Growth Lead,46,10.4,8771,3,No,No
+EMP-303,Marketing,Content Specialist,22,1,5893,3,No,No
+EMP-304,Marketing,Growth Lead,36,3.3,5208,5,No,No
+EMP-305,Sales,Sales Representative,33,11.7,7019,3,Yes,No
+EMP-306,Engineering,QA Specialist,49,2.8,5876,2,No,No
+EMP-307,Operations,Procurement Officer,52,5.0,7411,2,Yes,Yes
+EMP-308,Finance,Accountant,56,12.1,8053,4,No,No
+EMP-309,Human Resources,Talent Lead,53,14.9,10572,2,Yes,No
+EMP-310,Marketing,Growth Lead,30,9,8682,4,Yes,No
+EMP-311,Engineering,Software Engineer,55,4.1,7358,4,No,No
+EMP-312,Finance,Accountant,32,5.8,8811,3,No,No
+EMP-313,Marketing,Growth Lead,39,1.2,5191,4,Yes,No
+EMP-314,Engineering,Software Engineer,34,2.7,6683,4,Yes,No
+EMP-315,Human Resources,Recruiter,47,11.6,7213,2,No,No
+EMP-316,Operations,Logistics Coordinator,26,5,6315,3,Yes,No
+EMP-317,Engineering,Data Engineer,43,10.9,7718,2,Yes,Yes
+EMP-318,Sales,Account Manager,36,13.3,11367,1,No,Yes
+EMP-319,Finance,Accountant,54,13.6,12116,4,No,No
+EMP-320,Engineering,QA Specialist,35,12.4,11414,3,No,No
+EMP-321,Sales,Sales Representative,29,2.6,6534,4,No,No
+EMP-322,Finance,Compliance Officer,54,11.8,8075,5,No,No
+EMP-323,Human Resources,Talent Lead,30,4.2,6609,2,No,No
+EMP-324,Sales,Account Manager,30,9,8685,5,Yes,No
+EMP-325,Operations,Procurement Officer,57,7.7,8703,4,Yes,No
+EMP-326,Operations,Procurement Officer,57,13.9,7499,2,Yes,No
+EMP-327,Human Resources,Recruiter,49,6.0,7363,1,No,No
+EMP-328,Engineering,Software Engineer,57,1.7,5922,3,No,No
+EMP-329,Marketing,SEO Analyst,37,9.8,9452,1,Yes,Yes
+EMP-330,Marketing,Growth Lead,42,12.6,10188,1,Yes,Yes
+EMP-331,Marketing,Growth Lead,46,6.8,5874,1,No,Yes
+EMP-332,Engineering,QA Specialist,47,13.8,12701,3,Yes,No
+EMP-333,Human Resources,Talent Lead,42,2.0,6063,5,No,No
+EMP-334,Finance,Financial Analyst,49,6.6,8721,2,No,No
+EMP-335,Engineering,QA Specialist,36,8.3,9601,5,No,No
+EMP-336,Finance,Financial Analyst,45,0.9,8308,5,Yes,No
+EMP-337,Sales,Sales Executive,27,2.4,8507,3,No,No
+EMP-338,Engineering,QA Specialist,22,1,6622,5,Yes,No
+EMP-339,Human Resources,Recruiter,51,4.7,6763,1,Yes,Yes
+EMP-340,Finance,Compliance Officer,47,14.1,10350,4,Yes,No
+EMP-341,Operations,Operations Manager,45,4.4,4986,2,No,No
+EMP-342,Finance,Financial Analyst,22,1,6950,2,Yes,Yes
+EMP-343,Human Resources,HR Generalist,43,6.4,8073,1,Yes,Yes
+EMP-344,Operations,Operations Manager,22,1,6318,4,Yes,No
+EMP-345,Engineering,Software Engineer,48,1.6,9568,5,Yes,No
+EMP-346,Engineering,Software Engineer,58,5.9,9204,1,Yes,Yes
+EMP-347,Operations,Logistics Coordinator,45,3.8,6126,4,No,No
+EMP-348,Operations,Logistics Coordinator,22,1,4941,3,No,No
+EMP-349,Operations,Operations Manager,36,12.3,9959,2,No,No
+EMP-350,Sales,Sales Representative,38,4.5,6620,4,Yes,No
+EMP-351,Human Resources,HR Generalist,41,12.3,6964,1,No,Yes
+EMP-352,Sales,Sales Executive,51,13.4,10778,2,Yes,Yes
+EMP-353,Sales,Account Manager,55,1.4,5851,3,No,No
+EMP-354,Marketing,SEO Analyst,54,3.3,5567,3,No,No
+EMP-355,Human Resources,HR Generalist,56,1.2,6131,3,No,No
+EMP-356,Marketing,Content Specialist,45,14.4,10883,2,No,No
+EMP-357,Engineering,Software Engineer,53,9.6,10841,3,Yes,No
+EMP-358,Human Resources,Talent Lead,46,1.9,5445,1,Yes,Yes
+EMP-359,Engineering,Data Engineer,45,13.8,12451,3,Yes,No
+EMP-360,Operations,Logistics Coordinator,33,6.8,8427,3,Yes,No
+EMP-361,Engineering,Data Engineer,29,5.4,10544,2,No,No
+EMP-362,Engineering,Data Engineer,40,1.1,5307,4,No,No
+EMP-363,Operations,Procurement Officer,45,9.8,8647,2,Yes,No
+EMP-364,Operations,Logistics Coordinator,35,10.5,6695,5,No,No
+EMP-365,Engineering,Software Engineer,56,4.8,10393,5,No,No
+EMP-366,Marketing,Content Specialist,45,10.4,6973,3,Yes,No
+EMP-367,Operations,Logistics Coordinator,47,8.8,8428,5,Yes,No
+EMP-368,Human Resources,Talent Lead,39,10.6,8306,2,No,No
+EMP-369,Sales,Sales Executive,22,1,7596,4,Yes,No
+EMP-370,Engineering,Data Engineer,35,14,9695,3,Yes,No
+EMP-371,Operations,Logistics Coordinator,58,10.7,9273,2,Yes,No
+EMP-372,Human Resources,Talent Lead,24,3,5647,1,Yes,Yes
+EMP-373,Human Resources,Recruiter,36,12.0,10016,5,No,No
+EMP-374,Marketing,SEO Analyst,33,1.8,5457,5,No,No
+EMP-375,Operations,Logistics Coordinator,22,1,6905,2,Yes,Yes
+EMP-376,Human Resources,HR Generalist,27,6,5722,2,Yes,Yes
+EMP-377,Finance,Financial Analyst,55,8.8,9987,4,Yes,No
+EMP-378,Finance,Accountant,43,8.5,10763,1,Yes,Yes
+EMP-379,Finance,Financial Analyst,25,4,9009,3,No,No
+EMP-380,Finance,Financial Analyst,54,13.7,9373,4,Yes,No
+EMP-381,Finance,Financial Analyst,32,11.0,9587,4,Yes,No
+EMP-382,Sales,Sales Representative,31,1.4,6084,1,Yes,Yes
+EMP-383,Marketing,SEO Analyst,34,10.7,7268,2,Yes,Yes
+EMP-384,Sales,Sales Executive,50,7.7,6120,2,Yes,Yes
+EMP-385,Engineering,Data Engineer,38,6.2,9646,1,No,Yes
+EMP-386,Human Resources,Talent Lead,28,7,5910,2,Yes,Yes
+EMP-387,Human Resources,Talent Lead,24,3,7449,2,No,No
+EMP-388,Engineering,QA Specialist,46,6.2,9073,2,No,No
+EMP-389,Human Resources,Talent Lead,45,14.5,10020,4,No,No
+EMP-390,Sales,Sales Executive,58,7.9,5984,4,Yes,No
+EMP-391,Human Resources,Recruiter,47,14.7,8933,3,No,No
+EMP-392,Sales,Account Manager,34,2.4,6124,2,No,No
+EMP-393,Operations,Logistics Coordinator,43,14.1,9711,5,Yes,No
+EMP-394,Finance,Compliance Officer,53,14.3,8838,5,No,No
+EMP-395,Operations,Logistics Coordinator,58,10.4,9784,3,No,No
+EMP-396,Human Resources,HR Generalist,45,10.2,6943,3,Yes,No
+EMP-397,Engineering,Software Engineer,45,12.8,10581,5,No,No
+EMP-398,Operations,Procurement Officer,39,7.7,8961,4,No,No
+EMP-399,Sales,Account Manager,37,6.8,9261,5,Yes,No
+EMP-400,Human Resources,HR Generalist,39,2.3,7132,2,No,No
+EMP-401,Finance,Financial Analyst,43,3.2,6803,4,Yes,No
+EMP-402,Engineering,Software Engineer,22,1,5463,3,No,No
+EMP-403,Engineering,QA Specialist,38,9.9,8249,5,No,No
+EMP-404,Sales,Sales Representative,25,4,8086,4,Yes,No
+EMP-405,Human Resources,Talent Lead,44,13.8,8782,2,No,No
+EMP-406,Sales,Sales Executive,45,12.3,7736,3,No,No
+EMP-407,Engineering,Software Engineer,53,3.3,9772,2,Yes,Yes
+EMP-408,Human Resources,Recruiter,50,2.4,5663,4,Yes,No
+EMP-409,Operations,Procurement Officer,44,12.3,9282,4,Yes,No
+EMP-410,Engineering,Software Engineer,31,7.5,10247,2,No,No
+EMP-411,Engineering,QA Specialist,41,3.8,9025,5,Yes,No
+EMP-412,Human Resources,HR Generalist,24,3,6001,2,Yes,No
+EMP-413,Sales,Sales Representative,53,11.9,8512,3,Yes,No
+EMP-414,Sales,Sales Executive,31,9.8,9015,4,No,No
+EMP-415,Operations,Procurement Officer,36,11.8,8254,2,Yes,No
+EMP-416,Human Resources,HR Generalist,54,3.2,7039,5,Yes,No
+EMP-417,Engineering,Software Engineer,53,2.3,5642,4,Yes,No
+EMP-418,Operations,Logistics Coordinator,53,10.2,7137,4,No,No
+EMP-419,Marketing,Content Specialist,31,3.5,5304,2,Yes,No
+EMP-420,Marketing,Growth Lead,31,5.5,9006,5,No,No
+EMP-421,Human Resources,HR Generalist,46,3.2,4463,5,No,No
+EMP-422,Sales,Sales Executive,29,8,9308,3,Yes,No
+EMP-423,Finance,Accountant,29,8,7190,3,No,No
+EMP-424,Operations,Operations Manager,36,8.8,7293,4,No,No
+EMP-425,Finance,Financial Analyst,33,12,9994,1,No,Yes
+EMP-426,Marketing,Content Specialist,58,14.0,11363,1,Yes,Yes
+EMP-427,Engineering,Software Engineer,23,2,9941,4,Yes,No
+EMP-428,Sales,Account Manager,26,5,8124,5,No,No
+EMP-429,Human Resources,HR Generalist,58,14.3,9049,4,Yes,No
+EMP-430,Sales,Account Manager,46,10.3,7910,1,No,Yes
+EMP-431,Operations,Logistics Coordinator,58,13.6,7512,3,No,No
+EMP-432,Sales,Sales Executive,29,2.6,4539,2,No,No
+EMP-433,Finance,Compliance Officer,51,12.1,10001,3,No,No
+EMP-434,Finance,Compliance Officer,49,7.7,6738,3,No,No
+EMP-435,Marketing,Growth Lead,24,3,5946,3,No,No
+EMP-436,Marketing,SEO Analyst,49,9.4,8781,4,Yes,No
+EMP-437,Marketing,Content Specialist,25,4,6281,5,Yes,No
+EMP-438,Human Resources,Recruiter,37,14.8,9446,3,No,No
+EMP-439,Marketing,Growth Lead,48,10.0,7568,2,No,No
+EMP-440,Operations,Operations Manager,26,5,5824,3,No,No
+EMP-441,Marketing,SEO Analyst,50,4.6,6064,5,Yes,No
+EMP-442,Sales,Sales Executive,25,4,7344,5,No,No
+EMP-443,Engineering,Software Engineer,32,2.0,10048,1,Yes,Yes
+EMP-444,Marketing,SEO Analyst,44,3.3,6890,4,Yes,No
+EMP-445,Marketing,Growth Lead,58,6.8,8381,3,No,No
+EMP-446,Engineering,Software Engineer,29,3.5,7146,4,No,No
+EMP-447,Operations,Procurement Officer,52,14.5,7893,5,No,No
+EMP-448,Finance,Accountant,34,4.3,7772,3,Yes,No
+EMP-449,Marketing,Content Specialist,34,12.5,7423,2,No,No
+EMP-450,Human Resources,HR Generalist,28,0.8,6144,2,Yes,Yes
+EMP-451,Operations,Operations Manager,31,8.8,8262,3,No,No
+EMP-452,Human Resources,Recruiter,26,5,4998,2,No,No
+EMP-453,Engineering,Software Engineer,32,11,12301,5,Yes,No
+EMP-454,Sales,Sales Executive,30,8.0,6791,2,Yes,Yes
+EMP-455,Engineering,Software Engineer,23,2,7101,3,No,No
+EMP-456,Engineering,Data Engineer,49,2.6,8276,4,No,No
+EMP-457,Sales,Sales Executive,27,6,8486,2,Yes,Yes
+EMP-458,Sales,Sales Executive,30,8.3,10198,4,Yes,No
+EMP-459,Human Resources,Talent Lead,32,11,9248,2,No,No
+EMP-460,Operations,Procurement Officer,51,11.1,8115,1,Yes,Yes
+EMP-461,Marketing,SEO Analyst,56,3.8,7191,4,Yes,No
+EMP-462,Marketing,SEO Analyst,24,3,6098,5,Yes,No
+EMP-463,Sales,Account Manager,37,9.6,10420,4,Yes,No
+EMP-464,Finance,Accountant,54,1.1,4722,3,Yes,No
+EMP-465,Human Resources,HR Generalist,53,4.7,5914,1,No,Yes
+EMP-466,Sales,Sales Representative,42,11.2,7412,1,Yes,Yes
+EMP-467,Engineering,Data Engineer,40,2.7,7134,1,Yes,No
+EMP-468,Engineering,QA Specialist,56,12.3,12824,2,No,No
+EMP-469,Finance,Compliance Officer,43,0.7,6019,4,No,No
+EMP-470,Engineering,QA Specialist,42,3.2,7880,4,No,No
+EMP-471,Human Resources,HR Generalist,39,3.2,5515,4,No,No
+EMP-472,Marketing,SEO Analyst,27,2.6,6647,5,Yes,No
+EMP-473,Marketing,Growth Lead,35,1.1,6702,5,Yes,No
+EMP-474,Operations,Operations Manager,33,12,7841,3,Yes,No
+EMP-475,Operations,Procurement Officer,57,5.4,6038,2,Yes,No
+EMP-476,Sales,Sales Executive,27,3.1,8097,2,Yes,No
+EMP-477,Finance,Financial Analyst,49,8.4,9058,5,No,No
+EMP-478,Finance,Compliance Officer,25,4,6989,3,No,No
+EMP-479,Human Resources,Talent Lead,55,7.5,7668,3,No,No
+EMP-480,Operations,Logistics Coordinator,49,11.0,7172,2,Yes,Yes
+EMP-481,Engineering,Data Engineer,26,1.2,7894,2,Yes,Yes
+EMP-482,Finance,Accountant,31,10,9265,4,Yes,No
+EMP-483,Engineering,QA Specialist,57,0.8,9099,2,Yes,Yes
+EMP-484,Sales,Sales Representative,32,8.3,6672,2,No,No
+EMP-485,Sales,Sales Representative,37,8.5,8369,1,Yes,Yes
+EMP-486,Human Resources,Talent Lead,49,2.9,4814,4,No,No
+EMP-487,Operations,Logistics Coordinator,35,12.3,8887,4,No,No
+EMP-488,Sales,Account Manager,51,2.0,8403,4,Yes,No
+EMP-489,Sales,Sales Executive,31,1.9,7321,5,Yes,No
+EMP-490,Finance,Accountant,42,10.8,7410,1,No,No
+EMP-491,Sales,Sales Executive,56,8.1,6105,3,Yes,No
+EMP-492,Marketing,SEO Analyst,48,8.9,7397,5,Yes,No
+EMP-493,Operations,Operations Manager,46,5.8,5694,4,No,No
+EMP-494,Sales,Account Manager,54,9.1,7053,2,No,No
+EMP-495,Sales,Sales Representative,23,2,6838,4,No,No
+EMP-496,Human Resources,HR Generalist,57,0.6,5469,5,No,No
+EMP-497,Human Resources,Recruiter,26,5,5182,2,No,No
+EMP-498,Finance,Compliance Officer,43,3.5,7692,5,No,No
+EMP-499,Marketing,Content Specialist,32,10.1,7836,5,Yes,No
+EMP-500,Human Resources,HR Generalist,51,1.1,6563,4,No,No
+EMP-501,Marketing,SEO Analyst,28,7,7815,1,No,Yes
+EMP-502,Finance,Compliance Officer,37,9.5,8648,4,Yes,No
+EMP-503,Sales,Account Manager,45,13.8,7570,1,No,Yes
+EMP-504,Engineering,Data Engineer,46,4.7,7121,5,No,No
+EMP-505,Human Resources,Recruiter,58,1.3,5568,4,Yes,No
+EMP-506,Engineering,Software Engineer,35,6.7,6614,1,Yes,Yes
+EMP-507,Marketing,SEO Analyst,43,14.3,11195,5,Yes,No
+EMP-508,Engineering,Data Engineer,44,9.4,11493,4,Yes,No
+EMP-509,Finance,Financial Analyst,43,3.9,6963,3,No,No
+EMP-510,Marketing,SEO Analyst,36,9.2,9401,3,Yes,No
+EMP-511,Sales,Account Manager,43,11.1,9764,2,Yes,No
+EMP-512,Engineering,Software Engineer,52,3.9,8758,2,Yes,No
+EMP-513,Finance,Accountant,42,8.5,7181,2,Yes,Yes
+EMP-514,Finance,Accountant,53,5.8,8561,1,Yes,Yes
+EMP-515,Human Resources,Recruiter,39,7.3,6934,3,No,No
+EMP-516,Engineering,Data Engineer,29,5.7,9607,3,Yes,No
+EMP-517,Marketing,Content Specialist,53,7.9,6817,1,Yes,Yes
+EMP-518,Finance,Financial Analyst,49,14.1,8441,5,No,No
+EMP-519,Finance,Accountant,34,0.6,6282,5,No,No
+EMP-520,Operations,Logistics Coordinator,42,11.1,7919,4,No,No
+EMP-521,Sales,Account Manager,39,13.1,9324,4,Yes,No
+EMP-522,Marketing,Content Specialist,35,12.3,10532,2,No,No
+EMP-523,Engineering,QA Specialist,58,9.0,10467,1,Yes,Yes
+EMP-524,Marketing,Content Specialist,28,7,6834,5,No,No
+EMP-525,Finance,Compliance Officer,51,9.0,8828,4,No,No
+EMP-526,Finance,Financial Analyst,55,11.3,10507,5,Yes,No
+EMP-527,Sales,Account Manager,55,8.3,7857,5,No,No
+EMP-528,Marketing,Growth Lead,28,7,6351,2,Yes,No
+EMP-529,Operations,Logistics Coordinator,35,8.2,9248,3,No,No
+EMP-530,Finance,Financial Analyst,39,14.2,10999,3,Yes,No
+EMP-531,Engineering,Data Engineer,51,8.9,8570,3,No,No
+EMP-532,Engineering,QA Specialist,42,11.3,11418,5,Yes,No
+EMP-533,Sales,Sales Representative,47,0.8,4809,1,No,Yes
+EMP-534,Operations,Operations Manager,44,2.3,7152,4,Yes,No
+EMP-535,Engineering,Data Engineer,42,1.4,6388,2,No,No
+EMP-536,Sales,Account Manager,47,2.5,7305,4,Yes,No
+EMP-537,Finance,Financial Analyst,22,1,4868,5,No,No
+EMP-538,Human Resources,Talent Lead,37,1.7,5532,3,Yes,No
+EMP-539,Engineering,Data Engineer,40,4.1,5860,5,Yes,No
+EMP-540,Finance,Compliance Officer,48,15.0,8753,4,No,No
+EMP-541,Engineering,QA Specialist,48,1.6,8065,1,No,Yes
+EMP-542,Marketing,Content Specialist,45,14.5,7864,1,No,Yes
+EMP-543,Human Resources,HR Generalist,54,13.1,8866,3,Yes,No
+EMP-544,Engineering,QA Specialist,48,8.8,9055,1,Yes,Yes
+EMP-545,Finance,Accountant,54,7.1,7207,3,No,No
+EMP-546,Finance,Compliance Officer,51,2.5,6726,4,Yes,No
+EMP-547,Engineering,Data Engineer,39,11.7,8791,1,Yes,Yes
+EMP-548,Human Resources,Talent Lead,44,14.4,9046,2,Yes,No
+EMP-549,Finance,Financial Analyst,29,8,7241,3,Yes,No
+EMP-550,Marketing,Growth Lead,32,11,10070,3,No,No
+EMP-551,Human Resources,Recruiter,30,0.6,5912,3,Yes,No
+EMP-552,Sales,Account Manager,45,15.0,10594,2,Yes,Yes
+EMP-553,Marketing,SEO Analyst,51,0.9,7688,5,Yes,No
+EMP-554,Marketing,Content Specialist,53,12.7,10435,2,Yes,Yes
+EMP-555,Finance,Financial Analyst,24,3,5091,4,No,No
+EMP-556,Operations,Procurement Officer,32,1.3,6692,2,Yes,Yes
+EMP-557,Marketing,Content Specialist,48,14.4,9592,5,Yes,No
+EMP-558,Marketing,SEO Analyst,22,0.9,4753,4,Yes,No
+EMP-559,Engineering,Software Engineer,56,12.3,8150,5,Yes,No
+EMP-560,Marketing,Growth Lead,39,11.3,7582,1,Yes,Yes
+EMP-561,Marketing,Content Specialist,48,1.3,5248,2,Yes,Yes
+EMP-562,Human Resources,HR Generalist,31,5.5,8184,2,Yes,No
+EMP-563,Marketing,SEO Analyst,50,12.1,7271,4,No,No
+EMP-564,Engineering,Software Engineer,30,7.3,9801,1,No,No
+EMP-565,Operations,Operations Manager,56,5.6,6993,4,Yes,No
+EMP-566,Sales,Account Manager,56,13.3,10834,3,No,No
+EMP-567,Sales,Sales Executive,51,6.0,7430,1,No,No
+EMP-568,Finance,Financial Analyst,58,2.1,6081,1,Yes,Yes
+EMP-569,Operations,Procurement Officer,30,9,9351,3,Yes,No
+EMP-570,Engineering,Software Engineer,58,14.5,10152,4,Yes,No
+EMP-571,Operations,Procurement Officer,53,10.5,6546,2,Yes,Yes
+EMP-572,Finance,Accountant,37,12.0,9800,4,Yes,No
+EMP-573,Engineering,Data Engineer,29,6.4,6407,1,Yes,Yes
+EMP-574,Human Resources,HR Generalist,51,11.3,8127,5,Yes,No
+EMP-575,Finance,Compliance Officer,43,4.9,6681,1,Yes,Yes
+EMP-576,Finance,Compliance Officer,54,4.5,9558,2,Yes,Yes
+EMP-577,Engineering,Data Engineer,27,6,9408,5,Yes,No
+EMP-578,Engineering,Software Engineer,38,12.2,8258,1,No,No
+EMP-579,Finance,Compliance Officer,38,4.6,5739,3,Yes,No
+EMP-580,Sales,Sales Representative,56,13.7,7955,5,Yes,No
+EMP-581,Sales,Account Manager,31,1.0,4095,3,No,No
+EMP-582,Operations,Logistics Coordinator,48,5.0,8374,2,Yes,No
+EMP-583,Marketing,Content Specialist,57,2.2,7325,4,No,No
+EMP-584,Engineering,Software Engineer,25,4,6715,2,Yes,Yes
+EMP-585,Engineering,Software Engineer,33,3.4,8290,2,No,No
+EMP-586,Finance,Compliance Officer,45,0.7,7537,4,No,No
+EMP-587,Marketing,Growth Lead,24,3,8260,3,No,No
+EMP-588,Engineering,Software Engineer,27,5.3,7813,1,Yes,Yes
+EMP-589,Marketing,SEO Analyst,48,1.7,5452,4,Yes,No
+EMP-590,Human Resources,Recruiter,22,1,6055,4,Yes,No
+EMP-591,Marketing,Content Specialist,50,13.3,10692,4,Yes,No
+EMP-592,Operations,Logistics Coordinator,25,4,6643,3,No,No
+EMP-593,Sales,Sales Executive,37,5.0,6284,3,Yes,No
+EMP-594,Engineering,Software Engineer,27,5.4,10229,4,Yes,No
+EMP-595,Human Resources,Talent Lead,39,12.1,8464,1,Yes,Yes
+EMP-596,Engineering,QA Specialist,49,3.9,7278,2,Yes,Yes
+EMP-597,Marketing,SEO Analyst,48,8.3,6191,4,Yes,No
+EMP-598,Engineering,Software Engineer,45,5.0,6311,3,No,No
+EMP-599,Engineering,Software Engineer,53,2.6,7153,5,No,No
+EMP-600,Finance,Compliance Officer,25,1.7,8173,3,No,No

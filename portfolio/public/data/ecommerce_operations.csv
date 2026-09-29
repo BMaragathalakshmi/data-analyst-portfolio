@@ -1,0 +1,1001 @@
+order_id,courier_partner,promised_delivery_days,actual_delivery_days,sla_met,order_status,shipping_cost,cancellation_reason
+OPS-5001,Express Logistics,5,0,No,Cancelled,27.93,Stock Issue
+OPS-5002,Express Logistics,2,0,No,Returned,31.06,None
+OPS-5003,MetroPostal,4,8,No,Delivered,26.74,None
+OPS-5004,Express Logistics,4,0,No,Returned,11.01,None
+OPS-5005,SpeedyDelivery,5,0,No,Returned,29.45,None
+OPS-5006,SpeedyDelivery,2,6,No,Delivered,11.57,None
+OPS-5007,FastTrack Cargo,4,4,No,Delayed,17.11,None
+OPS-5008,FastTrack Cargo,2,0,No,Returned,9.08,None
+OPS-5009,FastTrack Cargo,5,0,No,Cancelled,21.83,Customer Request
+OPS-5010,MetroPostal,5,8,No,Delivered,27.89,None
+OPS-5011,FastTrack Cargo,2,4,No,Delayed,11.2,None
+OPS-5012,Express Logistics,2,0,No,Cancelled,28.37,Stock Issue
+OPS-5013,FastTrack Cargo,3,7,No,Delivered,23.69,None
+OPS-5014,MetroPostal,5,7,No,Delivered,28.26,None
+OPS-5015,FastTrack Cargo,4,4,No,Delayed,9.53,None
+OPS-5016,MetroPostal,2,0,No,Cancelled,31.44,Customer Request
+OPS-5017,FastTrack Cargo,2,6,No,Delivered,26.93,None
+OPS-5018,SpeedyDelivery,5,8,No,Delivered,9.3,None
+OPS-5019,FastTrack Cargo,4,0,No,Returned,25.56,None
+OPS-5020,SpeedyDelivery,3,3,Yes,Delivered,30.85,None
+OPS-5021,FastTrack Cargo,2,4,No,Delivered,23.42,None
+OPS-5022,MetroPostal,5,0,No,Cancelled,22.56,Stock Issue
+OPS-5023,SpeedyDelivery,5,4,No,Delayed,18.42,None
+OPS-5024,MetroPostal,4,0,No,Returned,10.19,None
+OPS-5025,Express Logistics,4,8,No,Delivered,27.59,None
+OPS-5026,FastTrack Cargo,4,3,Yes,Delivered,27.26,None
+OPS-5027,MetroPostal,3,5,No,Delivered,10.35,None
+OPS-5028,MetroPostal,3,3,Yes,Delivered,17.78,None
+OPS-5029,SpeedyDelivery,4,4,Yes,Delivered,26.42,None
+OPS-5030,Express Logistics,3,0,No,Cancelled,23.24,Payment Failure
+OPS-5031,SpeedyDelivery,2,0,No,Cancelled,14.12,Customer Request
+OPS-5032,SpeedyDelivery,5,8,No,Delivered,29.14,None
+OPS-5033,Express Logistics,4,4,Yes,Delivered,9.69,None
+OPS-5034,Express Logistics,2,4,No,Delivered,20.64,None
+OPS-5035,SpeedyDelivery,5,0,No,Returned,26.31,None
+OPS-5036,MetroPostal,3,0,No,Returned,14.39,None
+OPS-5037,SpeedyDelivery,4,7,No,Delivered,10.81,None
+OPS-5038,Express Logistics,2,1,Yes,Delivered,30.95,None
+OPS-5039,SpeedyDelivery,5,6,No,Delayed,28.1,None
+OPS-5040,FastTrack Cargo,5,4,No,Delayed,16.66,None
+OPS-5041,FastTrack Cargo,4,0,No,Cancelled,16.68,Customer Request
+OPS-5042,FastTrack Cargo,2,0,No,Cancelled,31.6,Stock Issue
+OPS-5043,SpeedyDelivery,3,3,Yes,Delivered,23.6,None
+OPS-5044,MetroPostal,2,0,No,Cancelled,17.2,Payment Failure
+OPS-5045,FastTrack Cargo,2,6,No,Delayed,29.21,None
+OPS-5046,MetroPostal,3,7,No,Delivered,18.28,None
+OPS-5047,FastTrack Cargo,4,6,No,Delivered,27.84,None
+OPS-5048,SpeedyDelivery,5,7,No,Delivered,20.45,None
+OPS-5049,Express Logistics,2,4,No,Delivered,11.09,None
+OPS-5050,MetroPostal,2,5,No,Delivered,20.33,None
+OPS-5051,SpeedyDelivery,4,8,No,Delayed,20.76,None
+OPS-5052,FastTrack Cargo,2,2,No,Delayed,10.99,None
+OPS-5053,SpeedyDelivery,3,6,No,Delivered,8.91,None
+OPS-5054,FastTrack Cargo,4,3,No,Delayed,29.93,None
+OPS-5055,SpeedyDelivery,5,0,No,Returned,25.63,None
+OPS-5056,MetroPostal,3,6,No,Delivered,12.91,None
+OPS-5057,SpeedyDelivery,5,5,No,Delayed,31.28,None
+OPS-5058,FastTrack Cargo,4,0,No,Cancelled,33.92,Stock Issue
+OPS-5059,MetroPostal,4,4,No,Delayed,8.76,None
+OPS-5060,MetroPostal,3,0,No,Returned,12.17,None
+OPS-5061,Express Logistics,3,0,No,Returned,32.55,None
+OPS-5062,FastTrack Cargo,5,0,No,Returned,20.64,None
+OPS-5063,FastTrack Cargo,3,3,Yes,Delivered,31.27,None
+OPS-5064,MetroPostal,5,0,No,Returned,23.99,None
+OPS-5065,MetroPostal,2,0,No,Returned,28.83,None
+OPS-5066,MetroPostal,3,0,No,Cancelled,13.0,Payment Failure
+OPS-5067,SpeedyDelivery,4,3,Yes,Delivered,17.34,None
+OPS-5068,Express Logistics,3,0,No,Returned,20.59,None
+OPS-5069,MetroPostal,2,0,No,Returned,32.9,None
+OPS-5070,SpeedyDelivery,5,0,No,Cancelled,19.44,Payment Failure
+OPS-5071,Express Logistics,3,7,No,Delivered,25.23,None
+OPS-5072,SpeedyDelivery,5,4,No,Delayed,27.29,None
+OPS-5073,MetroPostal,4,5,No,Delayed,14.99,None
+OPS-5074,MetroPostal,2,2,Yes,Delivered,29.69,None
+OPS-5075,SpeedyDelivery,3,5,No,Delivered,13.86,None
+OPS-5076,MetroPostal,3,0,No,Returned,20.11,None
+OPS-5077,FastTrack Cargo,2,6,No,Delivered,12.99,None
+OPS-5078,FastTrack Cargo,2,1,No,Delayed,27.92,None
+OPS-5079,MetroPostal,5,7,No,Delivered,23.97,None
+OPS-5080,MetroPostal,5,5,Yes,Delivered,9.96,None
+OPS-5081,SpeedyDelivery,4,3,Yes,Delivered,15.87,None
+OPS-5082,MetroPostal,3,0,No,Cancelled,9.33,Address Not Found
+OPS-5083,Express Logistics,2,2,No,Delayed,23.41,None
+OPS-5084,FastTrack Cargo,2,2,Yes,Delivered,27.55,None
+OPS-5085,Express Logistics,4,4,Yes,Delivered,25.8,None
+OPS-5086,SpeedyDelivery,2,1,No,Delayed,19.27,None
+OPS-5087,Express Logistics,5,7,No,Delivered,31.03,None
+OPS-5088,Express Logistics,2,4,No,Delivered,32.06,None
+OPS-5089,MetroPostal,4,8,No,Delivered,8.77,None
+OPS-5090,Express Logistics,3,3,Yes,Delivered,13.21,None
+OPS-5091,MetroPostal,4,5,No,Delivered,18.11,None
+OPS-5092,FastTrack Cargo,5,5,Yes,Delivered,22.86,None
+OPS-5093,MetroPostal,3,6,No,Delayed,8.64,None
+OPS-5094,FastTrack Cargo,2,0,No,Cancelled,27.41,Payment Failure
+OPS-5095,SpeedyDelivery,3,4,No,Delivered,24.2,None
+OPS-5096,SpeedyDelivery,3,7,No,Delivered,23.92,None
+OPS-5097,FastTrack Cargo,3,5,No,Delayed,13.09,None
+OPS-5098,Express Logistics,2,4,No,Delivered,14.17,None
+OPS-5099,Express Logistics,5,4,Yes,Delivered,11.7,None
+OPS-5100,MetroPostal,5,0,No,Returned,20.04,None
+OPS-5101,SpeedyDelivery,5,5,Yes,Delivered,22.6,None
+OPS-5102,SpeedyDelivery,3,6,No,Delivered,20.98,None
+OPS-5103,SpeedyDelivery,5,9,No,Delivered,8.51,None
+OPS-5104,MetroPostal,2,4,No,Delivered,27.58,None
+OPS-5105,SpeedyDelivery,2,2,No,Delayed,9.64,None
+OPS-5106,Express Logistics,2,0,No,Returned,22.91,None
+OPS-5107,FastTrack Cargo,2,0,No,Cancelled,12.73,Customer Request
+OPS-5108,SpeedyDelivery,3,6,No,Delivered,9.33,None
+OPS-5109,SpeedyDelivery,2,0,No,Cancelled,23.41,Address Not Found
+OPS-5110,FastTrack Cargo,3,3,Yes,Delivered,13.76,None
+OPS-5111,Express Logistics,3,4,No,Delivered,10.21,None
+OPS-5112,FastTrack Cargo,4,5,No,Delivered,30.26,None
+OPS-5113,Express Logistics,3,4,No,Delivered,15.73,None
+OPS-5114,Express Logistics,5,8,No,Delivered,21.36,None
+OPS-5115,SpeedyDelivery,3,0,No,Returned,24.41,None
+OPS-5116,FastTrack Cargo,3,4,No,Delivered,30.17,None
+OPS-5117,MetroPostal,5,5,Yes,Delivered,8.68,None
+OPS-5118,Express Logistics,3,2,Yes,Delivered,11.72,None
+OPS-5119,SpeedyDelivery,2,2,Yes,Delivered,30.93,None
+OPS-5120,Express Logistics,4,7,No,Delayed,18.52,None
+OPS-5121,FastTrack Cargo,2,2,Yes,Delivered,14.69,None
+OPS-5122,MetroPostal,3,2,No,Delayed,20.77,None
+OPS-5123,SpeedyDelivery,4,0,No,Cancelled,15.59,Customer Request
+OPS-5124,Express Logistics,3,6,No,Delayed,28.26,None
+OPS-5125,SpeedyDelivery,2,0,No,Returned,22.94,None
+OPS-5126,MetroPostal,2,5,No,Delivered,11.88,None
+OPS-5127,MetroPostal,2,6,No,Delayed,14.34,None
+OPS-5128,MetroPostal,3,7,No,Delivered,18.72,None
+OPS-5129,MetroPostal,5,6,No,Delivered,12.35,None
+OPS-5130,MetroPostal,5,4,Yes,Delivered,31.38,None
+OPS-5131,FastTrack Cargo,2,0,No,Returned,31.2,None
+OPS-5132,MetroPostal,5,5,Yes,Delivered,9.17,None
+OPS-5133,FastTrack Cargo,4,0,No,Returned,16.54,None
+OPS-5134,FastTrack Cargo,2,2,Yes,Delivered,12.74,None
+OPS-5135,Express Logistics,4,8,No,Delivered,14.37,None
+OPS-5136,SpeedyDelivery,2,3,No,Delivered,10.9,None
+OPS-5137,FastTrack Cargo,3,0,No,Returned,11.06,None
+OPS-5138,Express Logistics,3,7,No,Delivered,29.95,None
+OPS-5139,MetroPostal,5,9,No,Delayed,12.06,None
+OPS-5140,MetroPostal,3,0,No,Cancelled,18.05,Payment Failure
+OPS-5141,FastTrack Cargo,2,5,No,Delivered,22.4,None
+OPS-5142,SpeedyDelivery,4,0,No,Returned,26.36,None
+OPS-5143,Express Logistics,3,0,No,Cancelled,27.27,Customer Request
+OPS-5144,SpeedyDelivery,5,0,No,Cancelled,21.06,Stock Issue
+OPS-5145,MetroPostal,5,0,No,Returned,29.65,None
+OPS-5146,FastTrack Cargo,3,3,Yes,Delivered,23.52,None
+OPS-5147,MetroPostal,2,3,No,Delivered,30.75,None
+OPS-5148,Express Logistics,4,6,No,Delivered,26.77,None
+OPS-5149,SpeedyDelivery,4,3,No,Delayed,31.03,None
+OPS-5150,SpeedyDelivery,4,0,No,Returned,27.25,None
+OPS-5151,FastTrack Cargo,3,0,No,Returned,33.3,None
+OPS-5152,SpeedyDelivery,5,0,No,Returned,26.62,None
+OPS-5153,MetroPostal,5,5,Yes,Delivered,8.96,None
+OPS-5154,SpeedyDelivery,5,5,No,Delayed,25.29,None
+OPS-5155,FastTrack Cargo,4,4,Yes,Delivered,30.49,None
+OPS-5156,SpeedyDelivery,4,0,No,Returned,10.54,None
+OPS-5157,MetroPostal,3,3,Yes,Delivered,13.18,None
+OPS-5158,SpeedyDelivery,2,5,No,Delivered,13.18,None
+OPS-5159,MetroPostal,4,6,No,Delivered,12.89,None
+OPS-5160,MetroPostal,4,4,Yes,Delivered,24.98,None
+OPS-5161,Express Logistics,3,3,Yes,Delivered,32.01,None
+OPS-5162,Express Logistics,3,6,No,Delivered,8.79,None
+OPS-5163,Express Logistics,5,0,No,Cancelled,18.56,Stock Issue
+OPS-5164,Express Logistics,5,7,No,Delivered,8.51,None
+OPS-5165,SpeedyDelivery,4,6,No,Delivered,13.45,None
+OPS-5166,Express Logistics,4,8,No,Delayed,9.5,None
+OPS-5167,FastTrack Cargo,2,0,No,Cancelled,9.77,Customer Request
+OPS-5168,FastTrack Cargo,4,4,Yes,Delivered,22.24,None
+OPS-5169,FastTrack Cargo,3,4,No,Delivered,29.83,None
+OPS-5170,Express Logistics,3,5,No,Delivered,30.23,None
+OPS-5171,Express Logistics,2,5,No,Delayed,12.16,None
+OPS-5172,MetroPostal,2,0,No,Returned,16.67,None
+OPS-5173,SpeedyDelivery,2,6,No,Delayed,27.58,None
+OPS-5174,Express Logistics,5,5,No,Delayed,18.47,None
+OPS-5175,FastTrack Cargo,4,0,No,Returned,8.76,None
+OPS-5176,SpeedyDelivery,5,5,Yes,Delivered,13.6,None
+OPS-5177,MetroPostal,5,7,No,Delivered,25.31,None
+OPS-5178,FastTrack Cargo,2,0,No,Returned,13.74,None
+OPS-5179,FastTrack Cargo,2,1,No,Delayed,24.89,None
+OPS-5180,SpeedyDelivery,2,4,No,Delivered,16.14,None
+OPS-5181,FastTrack Cargo,2,0,No,Returned,18.42,None
+OPS-5182,SpeedyDelivery,2,6,No,Delivered,13.51,None
+OPS-5183,FastTrack Cargo,5,9,No,Delayed,31.32,None
+OPS-5184,SpeedyDelivery,5,4,No,Delayed,19.26,None
+OPS-5185,FastTrack Cargo,4,4,Yes,Delivered,24.4,None
+OPS-5186,Express Logistics,5,4,Yes,Delivered,20.57,None
+OPS-5187,SpeedyDelivery,5,4,Yes,Delivered,33.95,None
+OPS-5188,MetroPostal,3,0,No,Cancelled,12.9,Address Not Found
+OPS-5189,Express Logistics,4,7,No,Delivered,14.09,None
+OPS-5190,SpeedyDelivery,4,3,Yes,Delivered,28.1,None
+OPS-5191,FastTrack Cargo,4,5,No,Delivered,19.42,None
+OPS-5192,SpeedyDelivery,5,8,No,Delivered,15.02,None
+OPS-5193,Express Logistics,4,5,No,Delivered,28.2,None
+OPS-5194,SpeedyDelivery,3,0,No,Returned,18.15,None
+OPS-5195,FastTrack Cargo,2,3,No,Delayed,26.05,None
+OPS-5196,FastTrack Cargo,5,9,No,Delivered,26.51,None
+OPS-5197,Express Logistics,2,0,No,Returned,33.47,None
+OPS-5198,Express Logistics,4,0,No,Cancelled,14.29,Payment Failure
+OPS-5199,SpeedyDelivery,4,4,No,Delayed,10.83,None
+OPS-5200,SpeedyDelivery,4,7,No,Delivered,23.89,None
+OPS-5201,Express Logistics,3,0,No,Cancelled,20.66,Customer Request
+OPS-5202,SpeedyDelivery,5,0,No,Returned,9.77,None
+OPS-5203,MetroPostal,5,0,No,Returned,27.29,None
+OPS-5204,SpeedyDelivery,5,8,No,Delivered,32.88,None
+OPS-5205,SpeedyDelivery,3,5,No,Delivered,9.81,None
+OPS-5206,MetroPostal,5,9,No,Delivered,33.06,None
+OPS-5207,SpeedyDelivery,4,6,No,Delayed,30.15,None
+OPS-5208,FastTrack Cargo,5,0,No,Returned,27.75,None
+OPS-5209,MetroPostal,2,0,No,Cancelled,17.88,Payment Failure
+OPS-5210,Express Logistics,4,0,No,Cancelled,29.32,Customer Request
+OPS-5211,Express Logistics,5,7,No,Delivered,32.07,None
+OPS-5212,FastTrack Cargo,2,0,No,Cancelled,8.78,Payment Failure
+OPS-5213,SpeedyDelivery,5,9,No,Delivered,29.95,None
+OPS-5214,MetroPostal,4,4,Yes,Delivered,17.77,None
+OPS-5215,MetroPostal,4,3,Yes,Delivered,14.31,None
+OPS-5216,FastTrack Cargo,4,6,No,Delayed,23.6,None
+OPS-5217,FastTrack Cargo,2,4,No,Delivered,20.82,None
+OPS-5218,MetroPostal,3,0,No,Returned,9.07,None
+OPS-5219,MetroPostal,2,5,No,Delayed,32.29,None
+OPS-5220,FastTrack Cargo,3,0,No,Returned,19.23,None
+OPS-5221,MetroPostal,4,0,No,Cancelled,28.29,Customer Request
+OPS-5222,MetroPostal,5,0,No,Cancelled,16.89,Payment Failure
+OPS-5223,Express Logistics,5,5,No,Delayed,23.1,None
+OPS-5224,FastTrack Cargo,3,7,No,Delivered,21.63,None
+OPS-5225,MetroPostal,2,6,No,Delayed,30.02,None
+OPS-5226,SpeedyDelivery,4,7,No,Delivered,12.02,None
+OPS-5227,Express Logistics,5,0,No,Returned,10.0,None
+OPS-5228,MetroPostal,2,0,No,Returned,22.4,None
+OPS-5229,MetroPostal,5,0,No,Returned,9.26,None
+OPS-5230,MetroPostal,3,2,Yes,Delivered,27.94,None
+OPS-5231,MetroPostal,2,4,No,Delivered,13.39,None
+OPS-5232,FastTrack Cargo,2,0,No,Cancelled,25.66,Address Not Found
+OPS-5233,MetroPostal,3,5,No,Delivered,26.41,None
+OPS-5234,FastTrack Cargo,5,4,Yes,Delivered,20.17,None
+OPS-5235,Express Logistics,5,0,No,Cancelled,29.47,Payment Failure
+OPS-5236,SpeedyDelivery,5,8,No,Delivered,15.94,None
+OPS-5237,Express Logistics,3,2,Yes,Delivered,25.7,None
+OPS-5238,FastTrack Cargo,4,8,No,Delivered,33.73,None
+OPS-5239,Express Logistics,4,5,No,Delivered,28.26,None
+OPS-5240,MetroPostal,2,4,No,Delayed,23.77,None
+OPS-5241,Express Logistics,4,0,No,Cancelled,29.4,Stock Issue
+OPS-5242,FastTrack Cargo,4,5,No,Delivered,33.9,None
+OPS-5243,FastTrack Cargo,3,6,No,Delivered,31.77,None
+OPS-5244,SpeedyDelivery,3,0,No,Returned,29.2,None
+OPS-5245,FastTrack Cargo,2,0,No,Returned,20.38,None
+OPS-5246,Express Logistics,5,8,No,Delayed,30.43,None
+OPS-5247,Express Logistics,5,9,No,Delayed,15.41,None
+OPS-5248,FastTrack Cargo,2,0,No,Returned,17.27,None
+OPS-5249,Express Logistics,5,9,No,Delivered,30.2,None
+OPS-5250,FastTrack Cargo,2,0,No,Returned,16.88,None
+OPS-5251,FastTrack Cargo,2,1,No,Delayed,20.64,None
+OPS-5252,FastTrack Cargo,4,3,No,Delayed,19.88,None
+OPS-5253,Express Logistics,2,5,No,Delivered,24.54,None
+OPS-5254,Express Logistics,2,0,No,Cancelled,20.08,Stock Issue
+OPS-5255,FastTrack Cargo,3,0,No,Cancelled,23.82,Stock Issue
+OPS-5256,FastTrack Cargo,4,0,No,Returned,29.74,None
+OPS-5257,SpeedyDelivery,2,4,No,Delivered,12.26,None
+OPS-5258,SpeedyDelivery,3,0,No,Cancelled,24.86,Stock Issue
+OPS-5259,SpeedyDelivery,2,4,No,Delivered,22.27,None
+OPS-5260,MetroPostal,2,0,No,Cancelled,26.84,Stock Issue
+OPS-5261,Express Logistics,5,7,No,Delivered,18.49,None
+OPS-5262,Express Logistics,2,0,No,Cancelled,22.02,Customer Request
+OPS-5263,FastTrack Cargo,2,0,No,Cancelled,20.14,Address Not Found
+OPS-5264,MetroPostal,4,5,No,Delivered,15.37,None
+OPS-5265,SpeedyDelivery,5,0,No,Cancelled,24.57,Address Not Found
+OPS-5266,SpeedyDelivery,5,4,Yes,Delivered,10.57,None
+OPS-5267,Express Logistics,4,0,No,Returned,29.17,None
+OPS-5268,FastTrack Cargo,3,7,No,Delivered,30.86,None
+OPS-5269,FastTrack Cargo,2,5,No,Delayed,10.8,None
+OPS-5270,FastTrack Cargo,5,6,No,Delivered,14.84,None
+OPS-5271,FastTrack Cargo,4,0,No,Cancelled,23.03,Stock Issue
+OPS-5272,Express Logistics,5,9,No,Delivered,27.91,None
+OPS-5273,Express Logistics,4,4,Yes,Delivered,18.07,None
+OPS-5274,FastTrack Cargo,4,0,No,Returned,9.57,None
+OPS-5275,SpeedyDelivery,5,6,No,Delivered,21.28,None
+OPS-5276,Express Logistics,5,0,No,Returned,28.64,None
+OPS-5277,SpeedyDelivery,2,0,No,Returned,33.26,None
+OPS-5278,MetroPostal,4,0,No,Returned,29.93,None
+OPS-5279,FastTrack Cargo,4,8,No,Delivered,23.03,None
+OPS-5280,MetroPostal,4,5,No,Delivered,32.45,None
+OPS-5281,MetroPostal,3,3,No,Delayed,33.0,None
+OPS-5282,FastTrack Cargo,2,4,No,Delayed,18.78,None
+OPS-5283,MetroPostal,5,0,No,Cancelled,15.73,Customer Request
+OPS-5284,FastTrack Cargo,4,7,No,Delivered,29.32,None
+OPS-5285,FastTrack Cargo,2,3,No,Delivered,13.24,None
+OPS-5286,MetroPostal,3,5,No,Delivered,22.87,None
+OPS-5287,FastTrack Cargo,5,7,No,Delivered,18.65,None
+OPS-5288,MetroPostal,5,0,No,Cancelled,13.01,Payment Failure
+OPS-5289,MetroPostal,3,0,No,Cancelled,23.49,Address Not Found
+OPS-5290,FastTrack Cargo,5,7,No,Delivered,22.68,None
+OPS-5291,MetroPostal,5,0,No,Returned,20.0,None
+OPS-5292,FastTrack Cargo,5,4,Yes,Delivered,16.18,None
+OPS-5293,FastTrack Cargo,3,2,Yes,Delivered,21.84,None
+OPS-5294,SpeedyDelivery,3,0,No,Cancelled,10.94,Address Not Found
+OPS-5295,FastTrack Cargo,2,0,No,Cancelled,12.45,Address Not Found
+OPS-5296,MetroPostal,2,1,Yes,Delivered,31.37,None
+OPS-5297,SpeedyDelivery,2,6,No,Delivered,33.46,None
+OPS-5298,MetroPostal,3,6,No,Delayed,26.97,None
+OPS-5299,Express Logistics,3,2,Yes,Delivered,30.7,None
+OPS-5300,Express Logistics,4,3,Yes,Delivered,8.93,None
+OPS-5301,MetroPostal,3,7,No,Delivered,30.01,None
+OPS-5302,MetroPostal,2,5,No,Delivered,24.13,None
+OPS-5303,MetroPostal,4,0,No,Returned,29.74,None
+OPS-5304,MetroPostal,3,7,No,Delivered,28.54,None
+OPS-5305,FastTrack Cargo,2,3,No,Delivered,24.34,None
+OPS-5306,FastTrack Cargo,3,3,Yes,Delivered,17.09,None
+OPS-5307,FastTrack Cargo,5,7,No,Delivered,19.42,None
+OPS-5308,Express Logistics,4,0,No,Cancelled,22.75,Stock Issue
+OPS-5309,FastTrack Cargo,2,0,No,Cancelled,25.05,Payment Failure
+OPS-5310,MetroPostal,3,0,No,Cancelled,30.92,Customer Request
+OPS-5311,MetroPostal,4,0,No,Returned,14.77,None
+OPS-5312,Express Logistics,5,7,No,Delayed,11.06,None
+OPS-5313,MetroPostal,4,0,No,Cancelled,33.44,Address Not Found
+OPS-5314,SpeedyDelivery,4,4,Yes,Delivered,28.78,None
+OPS-5315,SpeedyDelivery,4,3,No,Delayed,26.63,None
+OPS-5316,SpeedyDelivery,2,6,No,Delivered,13.45,None
+OPS-5317,SpeedyDelivery,2,1,No,Delayed,9.82,None
+OPS-5318,MetroPostal,3,7,No,Delayed,12.82,None
+OPS-5319,MetroPostal,2,2,Yes,Delivered,19.19,None
+OPS-5320,FastTrack Cargo,3,7,No,Delivered,17.0,None
+OPS-5321,Express Logistics,3,0,No,Cancelled,21.65,Address Not Found
+OPS-5322,FastTrack Cargo,2,2,No,Delayed,16.11,None
+OPS-5323,FastTrack Cargo,4,5,No,Delivered,30.09,None
+OPS-5324,SpeedyDelivery,2,0,No,Cancelled,28.38,Stock Issue
+OPS-5325,MetroPostal,5,9,No,Delivered,32.95,None
+OPS-5326,MetroPostal,3,4,No,Delivered,33.65,None
+OPS-5327,Express Logistics,5,0,No,Returned,19.05,None
+OPS-5328,Express Logistics,2,0,No,Cancelled,28.55,Customer Request
+OPS-5329,SpeedyDelivery,5,9,No,Delivered,14.59,None
+OPS-5330,FastTrack Cargo,4,0,No,Cancelled,10.5,Payment Failure
+OPS-5331,MetroPostal,4,3,Yes,Delivered,23.93,None
+OPS-5332,Express Logistics,4,0,No,Cancelled,21.48,Payment Failure
+OPS-5333,SpeedyDelivery,2,0,No,Cancelled,27.09,Customer Request
+OPS-5334,SpeedyDelivery,4,5,No,Delayed,26.82,None
+OPS-5335,MetroPostal,4,0,No,Returned,14.85,None
+OPS-5336,Express Logistics,2,6,No,Delayed,21.04,None
+OPS-5337,MetroPostal,2,3,No,Delivered,8.79,None
+OPS-5338,FastTrack Cargo,4,5,No,Delivered,31.27,None
+OPS-5339,Express Logistics,4,0,No,Cancelled,33.61,Address Not Found
+OPS-5340,FastTrack Cargo,2,5,No,Delivered,9.12,None
+OPS-5341,FastTrack Cargo,5,0,No,Cancelled,18.54,Address Not Found
+OPS-5342,Express Logistics,4,7,No,Delivered,22.64,None
+OPS-5343,SpeedyDelivery,2,0,No,Returned,25.33,None
+OPS-5344,Express Logistics,5,6,No,Delivered,12.51,None
+OPS-5345,SpeedyDelivery,5,6,No,Delivered,26.15,None
+OPS-5346,FastTrack Cargo,3,4,No,Delivered,26.88,None
+OPS-5347,FastTrack Cargo,2,2,Yes,Delivered,23.92,None
+OPS-5348,MetroPostal,4,3,Yes,Delivered,21.33,None
+OPS-5349,Express Logistics,5,4,No,Delayed,21.39,None
+OPS-5350,MetroPostal,3,2,Yes,Delivered,33.47,None
+OPS-5351,Express Logistics,2,0,No,Cancelled,22.29,Payment Failure
+OPS-5352,FastTrack Cargo,2,2,Yes,Delivered,25.86,None
+OPS-5353,FastTrack Cargo,5,4,No,Delayed,10.95,None
+OPS-5354,SpeedyDelivery,4,0,No,Cancelled,22.8,Payment Failure
+OPS-5355,FastTrack Cargo,3,3,No,Delayed,25.28,None
+OPS-5356,Express Logistics,5,0,No,Cancelled,9.32,Stock Issue
+OPS-5357,FastTrack Cargo,2,3,No,Delivered,14.26,None
+OPS-5358,MetroPostal,2,0,No,Returned,20.64,None
+OPS-5359,SpeedyDelivery,4,5,No,Delivered,20.75,None
+OPS-5360,Express Logistics,3,0,No,Cancelled,31.92,Address Not Found
+OPS-5361,Express Logistics,2,3,No,Delayed,18.46,None
+OPS-5362,Express Logistics,4,0,No,Cancelled,27.09,Payment Failure
+OPS-5363,MetroPostal,5,7,No,Delayed,11.87,None
+OPS-5364,MetroPostal,3,4,No,Delivered,26.43,None
+OPS-5365,MetroPostal,4,4,Yes,Delivered,33.39,None
+OPS-5366,FastTrack Cargo,5,0,No,Returned,10.38,None
+OPS-5367,SpeedyDelivery,3,4,No,Delivered,20.9,None
+OPS-5368,MetroPostal,3,5,No,Delivered,21.68,None
+OPS-5369,Express Logistics,2,4,No,Delivered,14.53,None
+OPS-5370,MetroPostal,3,5,No,Delayed,29.65,None
+OPS-5371,SpeedyDelivery,3,7,No,Delivered,22.04,None
+OPS-5372,Express Logistics,5,0,No,Returned,15.28,None
+OPS-5373,Express Logistics,2,0,No,Cancelled,8.78,Address Not Found
+OPS-5374,Express Logistics,2,0,No,Cancelled,33.71,Customer Request
+OPS-5375,FastTrack Cargo,2,0,No,Returned,12.15,None
+OPS-5376,FastTrack Cargo,4,5,No,Delivered,12.53,None
+OPS-5377,FastTrack Cargo,4,7,No,Delayed,20.42,None
+OPS-5378,SpeedyDelivery,2,5,No,Delivered,25.06,None
+OPS-5379,FastTrack Cargo,2,1,No,Delayed,24.39,None
+OPS-5380,MetroPostal,3,5,No,Delivered,17.39,None
+OPS-5381,MetroPostal,4,5,No,Delivered,29.19,None
+OPS-5382,FastTrack Cargo,4,5,No,Delivered,27.55,None
+OPS-5383,SpeedyDelivery,4,0,No,Returned,32.11,None
+OPS-5384,FastTrack Cargo,2,0,No,Cancelled,11.67,Customer Request
+OPS-5385,Express Logistics,5,0,No,Returned,17.37,None
+OPS-5386,SpeedyDelivery,3,0,No,Cancelled,15.73,Payment Failure
+OPS-5387,SpeedyDelivery,5,5,No,Delayed,30.61,None
+OPS-5388,SpeedyDelivery,2,4,No,Delivered,24.22,None
+OPS-5389,Express Logistics,5,7,No,Delivered,8.81,None
+OPS-5390,MetroPostal,5,5,Yes,Delivered,16.39,None
+OPS-5391,MetroPostal,5,4,Yes,Delivered,16.06,None
+OPS-5392,FastTrack Cargo,5,4,No,Delayed,11.84,None
+OPS-5393,SpeedyDelivery,4,7,No,Delivered,17.81,None
+OPS-5394,Express Logistics,3,7,No,Delivered,8.61,None
+OPS-5395,MetroPostal,2,4,No,Delivered,21.17,None
+OPS-5396,Express Logistics,5,4,Yes,Delivered,17.34,None
+OPS-5397,MetroPostal,2,0,No,Cancelled,18.02,Address Not Found
+OPS-5398,SpeedyDelivery,2,2,Yes,Delivered,14.76,None
+OPS-5399,SpeedyDelivery,5,8,No,Delivered,15.27,None
+OPS-5400,MetroPostal,4,4,Yes,Delivered,10.98,None
+OPS-5401,SpeedyDelivery,5,0,No,Returned,23.38,None
+OPS-5402,SpeedyDelivery,5,0,No,Returned,11.64,None
+OPS-5403,Express Logistics,5,0,No,Returned,19.59,None
+OPS-5404,SpeedyDelivery,5,0,No,Returned,23.31,None
+OPS-5405,MetroPostal,5,4,Yes,Delivered,22.62,None
+OPS-5406,FastTrack Cargo,5,6,No,Delivered,24.49,None
+OPS-5407,MetroPostal,2,3,No,Delayed,26.01,None
+OPS-5408,Express Logistics,3,7,No,Delivered,26.2,None
+OPS-5409,MetroPostal,2,0,No,Returned,22.32,None
+OPS-5410,FastTrack Cargo,2,5,No,Delivered,13.23,None
+OPS-5411,Express Logistics,4,0,No,Cancelled,19.53,Address Not Found
+OPS-5412,FastTrack Cargo,3,7,No,Delivered,26.51,None
+OPS-5413,MetroPostal,3,3,Yes,Delivered,22.92,None
+OPS-5414,MetroPostal,4,3,Yes,Delivered,13.24,None
+OPS-5415,FastTrack Cargo,3,3,Yes,Delivered,29.29,None
+OPS-5416,MetroPostal,3,4,No,Delayed,12.72,None
+OPS-5417,MetroPostal,3,3,Yes,Delivered,26.88,None
+OPS-5418,SpeedyDelivery,3,0,No,Returned,9.69,None
+OPS-5419,FastTrack Cargo,3,0,No,Returned,9.05,None
+OPS-5420,Express Logistics,2,1,Yes,Delivered,19.29,None
+OPS-5421,FastTrack Cargo,3,6,No,Delivered,15.61,None
+OPS-5422,FastTrack Cargo,4,6,No,Delivered,25.33,None
+OPS-5423,FastTrack Cargo,2,0,No,Cancelled,28.89,Stock Issue
+OPS-5424,SpeedyDelivery,2,3,No,Delivered,29.99,None
+OPS-5425,SpeedyDelivery,5,4,Yes,Delivered,31.83,None
+OPS-5426,MetroPostal,5,8,No,Delivered,26.09,None
+OPS-5427,Express Logistics,3,2,Yes,Delivered,9.25,None
+OPS-5428,MetroPostal,3,3,Yes,Delivered,25.67,None
+OPS-5429,FastTrack Cargo,3,3,No,Delayed,21.07,None
+OPS-5430,MetroPostal,3,3,No,Delayed,32.45,None
+OPS-5431,MetroPostal,2,0,No,Returned,32.85,None
+OPS-5432,MetroPostal,5,4,Yes,Delivered,32.1,None
+OPS-5433,MetroPostal,3,6,No,Delivered,17.72,None
+OPS-5434,FastTrack Cargo,2,3,No,Delayed,24.17,None
+OPS-5435,FastTrack Cargo,4,0,No,Cancelled,11.95,Payment Failure
+OPS-5436,Express Logistics,2,0,No,Returned,24.83,None
+OPS-5437,SpeedyDelivery,2,0,No,Returned,11.87,None
+OPS-5438,MetroPostal,2,6,No,Delivered,25.02,None
+OPS-5439,MetroPostal,4,7,No,Delayed,12.76,None
+OPS-5440,MetroPostal,3,4,No,Delayed,23.01,None
+OPS-5441,Express Logistics,3,2,No,Delayed,29.99,None
+OPS-5442,FastTrack Cargo,5,0,No,Returned,13.37,None
+OPS-5443,SpeedyDelivery,5,0,No,Returned,31.02,None
+OPS-5444,SpeedyDelivery,2,3,No,Delayed,23.13,None
+OPS-5445,SpeedyDelivery,5,9,No,Delivered,23.45,None
+OPS-5446,Express Logistics,3,0,No,Cancelled,33.51,Stock Issue
+OPS-5447,SpeedyDelivery,2,0,No,Cancelled,15.07,Stock Issue
+OPS-5448,Express Logistics,4,0,No,Cancelled,29.25,Customer Request
+OPS-5449,SpeedyDelivery,3,0,No,Cancelled,12.14,Stock Issue
+OPS-5450,MetroPostal,3,3,Yes,Delivered,11.86,None
+OPS-5451,FastTrack Cargo,4,0,No,Cancelled,31.28,Customer Request
+OPS-5452,FastTrack Cargo,3,7,No,Delivered,22.48,None
+OPS-5453,Express Logistics,2,0,No,Returned,16.9,None
+OPS-5454,SpeedyDelivery,4,0,No,Cancelled,14.31,Customer Request
+OPS-5455,Express Logistics,2,0,No,Returned,13.15,None
+OPS-5456,MetroPostal,3,3,No,Delayed,31.7,None
+OPS-5457,SpeedyDelivery,4,4,No,Delayed,29.58,None
+OPS-5458,FastTrack Cargo,5,9,No,Delivered,20.26,None
+OPS-5459,MetroPostal,3,3,Yes,Delivered,13.73,None
+OPS-5460,MetroPostal,4,8,No,Delivered,22.44,None
+OPS-5461,SpeedyDelivery,5,8,No,Delivered,9.76,None
+OPS-5462,Express Logistics,3,0,No,Returned,26.3,None
+OPS-5463,SpeedyDelivery,4,0,No,Cancelled,18.72,Stock Issue
+OPS-5464,SpeedyDelivery,2,6,No,Delayed,16.78,None
+OPS-5465,MetroPostal,5,0,No,Returned,24.4,None
+OPS-5466,MetroPostal,3,2,Yes,Delivered,30.34,None
+OPS-5467,MetroPostal,3,5,No,Delivered,29.0,None
+OPS-5468,Express Logistics,2,0,No,Cancelled,23.14,Address Not Found
+OPS-5469,MetroPostal,5,7,No,Delivered,11.88,None
+OPS-5470,Express Logistics,4,5,No,Delayed,31.47,None
+OPS-5471,MetroPostal,5,0,No,Returned,32.75,None
+OPS-5472,SpeedyDelivery,5,6,No,Delayed,16.86,None
+OPS-5473,SpeedyDelivery,4,3,No,Delayed,33.78,None
+OPS-5474,FastTrack Cargo,5,7,No,Delivered,15.5,None
+OPS-5475,Express Logistics,5,8,No,Delivered,19.88,None
+OPS-5476,MetroPostal,3,0,No,Cancelled,15.92,Customer Request
+OPS-5477,SpeedyDelivery,5,7,No,Delivered,17.5,None
+OPS-5478,SpeedyDelivery,3,3,Yes,Delivered,31.24,None
+OPS-5479,SpeedyDelivery,2,5,No,Delivered,23.51,None
+OPS-5480,MetroPostal,2,2,Yes,Delivered,28.94,None
+OPS-5481,FastTrack Cargo,5,8,No,Delivered,33.95,None
+OPS-5482,Express Logistics,3,0,No,Cancelled,29.83,Stock Issue
+OPS-5483,Express Logistics,2,0,No,Returned,20.04,None
+OPS-5484,FastTrack Cargo,3,2,No,Delayed,30.99,None
+OPS-5485,SpeedyDelivery,3,3,Yes,Delivered,21.57,None
+OPS-5486,MetroPostal,3,2,Yes,Delivered,28.83,None
+OPS-5487,SpeedyDelivery,2,0,No,Returned,22.28,None
+OPS-5488,FastTrack Cargo,4,8,No,Delivered,10.26,None
+OPS-5489,SpeedyDelivery,2,0,No,Returned,23.39,None
+OPS-5490,MetroPostal,2,0,No,Returned,29.5,None
+OPS-5491,MetroPostal,5,0,No,Cancelled,30.63,Stock Issue
+OPS-5492,FastTrack Cargo,4,4,Yes,Delivered,22.66,None
+OPS-5493,Express Logistics,4,6,No,Delivered,24.04,None
+OPS-5494,Express Logistics,4,3,Yes,Delivered,20.33,None
+OPS-5495,SpeedyDelivery,5,6,No,Delayed,33.69,None
+OPS-5496,Express Logistics,4,0,No,Cancelled,21.21,Address Not Found
+OPS-5497,SpeedyDelivery,2,0,No,Returned,31.15,None
+OPS-5498,Express Logistics,5,4,Yes,Delivered,12.8,None
+OPS-5499,SpeedyDelivery,3,7,No,Delivered,30.73,None
+OPS-5500,Express Logistics,2,3,No,Delivered,31.74,None
+OPS-5501,FastTrack Cargo,4,7,No,Delivered,29.96,None
+OPS-5502,Express Logistics,3,4,No,Delayed,12.42,None
+OPS-5503,FastTrack Cargo,5,9,No,Delivered,20.23,None
+OPS-5504,SpeedyDelivery,5,0,No,Cancelled,20.24,Payment Failure
+OPS-5505,Express Logistics,4,0,No,Returned,10.2,None
+OPS-5506,MetroPostal,4,0,No,Returned,33.83,None
+OPS-5507,FastTrack Cargo,2,5,No,Delivered,21.81,None
+OPS-5508,FastTrack Cargo,4,0,No,Cancelled,28.56,Stock Issue
+OPS-5509,SpeedyDelivery,5,5,Yes,Delivered,14.74,None
+OPS-5510,FastTrack Cargo,5,4,Yes,Delivered,27.29,None
+OPS-5511,SpeedyDelivery,5,0,No,Returned,26.77,None
+OPS-5512,SpeedyDelivery,5,7,No,Delivered,29.89,None
+OPS-5513,SpeedyDelivery,3,0,No,Cancelled,11.02,Stock Issue
+OPS-5514,FastTrack Cargo,2,0,No,Returned,18.29,None
+OPS-5515,FastTrack Cargo,3,0,No,Cancelled,25.26,Customer Request
+OPS-5516,SpeedyDelivery,2,4,No,Delivered,22.29,None
+OPS-5517,FastTrack Cargo,3,5,No,Delivered,29.49,None
+OPS-5518,SpeedyDelivery,4,0,No,Cancelled,19.07,Customer Request
+OPS-5519,MetroPostal,3,3,Yes,Delivered,20.23,None
+OPS-5520,FastTrack Cargo,5,4,Yes,Delivered,19.98,None
+OPS-5521,Express Logistics,3,3,Yes,Delivered,20.52,None
+OPS-5522,Express Logistics,5,6,No,Delivered,29.51,None
+OPS-5523,MetroPostal,4,6,No,Delivered,33.6,None
+OPS-5524,SpeedyDelivery,4,0,No,Returned,10.3,None
+OPS-5525,MetroPostal,5,6,No,Delayed,16.5,None
+OPS-5526,Express Logistics,2,0,No,Cancelled,30.0,Address Not Found
+OPS-5527,MetroPostal,2,0,No,Cancelled,17.49,Customer Request
+OPS-5528,SpeedyDelivery,2,5,No,Delayed,23.32,None
+OPS-5529,SpeedyDelivery,5,0,No,Cancelled,12.78,Address Not Found
+OPS-5530,SpeedyDelivery,5,0,No,Cancelled,18.98,Customer Request
+OPS-5531,FastTrack Cargo,5,7,No,Delivered,10.52,None
+OPS-5532,FastTrack Cargo,5,0,No,Cancelled,25.87,Address Not Found
+OPS-5533,Express Logistics,2,0,No,Returned,24.62,None
+OPS-5534,SpeedyDelivery,2,0,No,Returned,22.45,None
+OPS-5535,Express Logistics,5,9,No,Delivered,28.5,None
+OPS-5536,Express Logistics,3,0,No,Cancelled,29.29,Customer Request
+OPS-5537,MetroPostal,5,7,No,Delivered,26.74,None
+OPS-5538,Express Logistics,2,4,No,Delivered,23.45,None
+OPS-5539,FastTrack Cargo,3,6,No,Delayed,22.65,None
+OPS-5540,MetroPostal,3,0,No,Cancelled,14.21,Stock Issue
+OPS-5541,SpeedyDelivery,5,0,No,Cancelled,31.99,Address Not Found
+OPS-5542,SpeedyDelivery,5,7,No,Delivered,16.86,None
+OPS-5543,MetroPostal,3,0,No,Cancelled,33.91,Address Not Found
+OPS-5544,SpeedyDelivery,5,4,Yes,Delivered,28.91,None
+OPS-5545,MetroPostal,2,2,Yes,Delivered,29.92,None
+OPS-5546,FastTrack Cargo,4,5,No,Delivered,17.18,None
+OPS-5547,Express Logistics,4,0,No,Returned,19.72,None
+OPS-5548,Express Logistics,3,7,No,Delivered,10.89,None
+OPS-5549,MetroPostal,3,0,No,Cancelled,21.67,Payment Failure
+OPS-5550,SpeedyDelivery,4,5,No,Delivered,33.54,None
+OPS-5551,FastTrack Cargo,2,3,No,Delivered,10.13,None
+OPS-5552,MetroPostal,2,2,Yes,Delivered,32.37,None
+OPS-5553,SpeedyDelivery,3,5,No,Delivered,22.16,None
+OPS-5554,MetroPostal,4,8,No,Delivered,27.63,None
+OPS-5555,Express Logistics,2,0,No,Returned,23.36,None
+OPS-5556,MetroPostal,5,8,No,Delayed,9.86,None
+OPS-5557,FastTrack Cargo,4,8,No,Delivered,15.31,None
+OPS-5558,MetroPostal,4,0,No,Cancelled,15.22,Stock Issue
+OPS-5559,SpeedyDelivery,3,5,No,Delivered,27.0,None
+OPS-5560,MetroPostal,2,1,Yes,Delivered,19.52,None
+OPS-5561,FastTrack Cargo,4,0,No,Cancelled,20.73,Stock Issue
+OPS-5562,FastTrack Cargo,4,7,No,Delivered,32.6,None
+OPS-5563,SpeedyDelivery,3,6,No,Delayed,31.71,None
+OPS-5564,FastTrack Cargo,5,0,No,Returned,14.45,None
+OPS-5565,MetroPostal,3,0,No,Cancelled,26.62,Address Not Found
+OPS-5566,Express Logistics,4,8,No,Delivered,25.38,None
+OPS-5567,FastTrack Cargo,3,3,Yes,Delivered,16.15,None
+OPS-5568,MetroPostal,4,0,No,Returned,10.26,None
+OPS-5569,SpeedyDelivery,4,0,No,Returned,22.21,None
+OPS-5570,MetroPostal,2,4,No,Delayed,31.71,None
+OPS-5571,SpeedyDelivery,5,7,No,Delivered,26.58,None
+OPS-5572,MetroPostal,2,3,No,Delivered,27.45,None
+OPS-5573,SpeedyDelivery,4,0,No,Cancelled,25.08,Stock Issue
+OPS-5574,SpeedyDelivery,2,0,No,Returned,19.33,None
+OPS-5575,MetroPostal,4,3,Yes,Delivered,32.68,None
+OPS-5576,FastTrack Cargo,2,4,No,Delivered,22.9,None
+OPS-5577,Express Logistics,4,0,No,Returned,31.23,None
+OPS-5578,Express Logistics,4,5,No,Delivered,25.52,None
+OPS-5579,MetroPostal,2,0,No,Returned,26.48,None
+OPS-5580,SpeedyDelivery,3,0,No,Cancelled,26.2,Stock Issue
+OPS-5581,SpeedyDelivery,3,6,No,Delivered,29.16,None
+OPS-5582,FastTrack Cargo,5,0,No,Cancelled,15.86,Address Not Found
+OPS-5583,FastTrack Cargo,3,5,No,Delivered,33.02,None
+OPS-5584,SpeedyDelivery,2,0,No,Returned,23.17,None
+OPS-5585,MetroPostal,3,0,No,Returned,11.47,None
+OPS-5586,FastTrack Cargo,5,7,No,Delayed,20.22,None
+OPS-5587,MetroPostal,5,7,No,Delayed,32.79,None
+OPS-5588,Express Logistics,4,8,No,Delivered,18.55,None
+OPS-5589,FastTrack Cargo,3,2,Yes,Delivered,11.93,None
+OPS-5590,FastTrack Cargo,3,4,No,Delivered,24.15,None
+OPS-5591,Express Logistics,3,7,No,Delivered,19.66,None
+OPS-5592,MetroPostal,3,0,No,Cancelled,31.22,Stock Issue
+OPS-5593,SpeedyDelivery,2,0,No,Cancelled,10.89,Stock Issue
+OPS-5594,Express Logistics,3,7,No,Delivered,16.26,None
+OPS-5595,MetroPostal,4,5,No,Delivered,9.19,None
+OPS-5596,FastTrack Cargo,3,4,No,Delivered,10.1,None
+OPS-5597,SpeedyDelivery,4,6,No,Delayed,30.98,None
+OPS-5598,FastTrack Cargo,2,1,No,Delayed,22.51,None
+OPS-5599,FastTrack Cargo,3,5,No,Delayed,14.06,None
+OPS-5600,SpeedyDelivery,5,0,No,Returned,31.29,None
+OPS-5601,SpeedyDelivery,3,7,No,Delivered,13.16,None
+OPS-5602,MetroPostal,4,3,No,Delayed,16.12,None
+OPS-5603,Express Logistics,3,6,No,Delivered,16.75,None
+OPS-5604,FastTrack Cargo,4,0,No,Returned,17.25,None
+OPS-5605,FastTrack Cargo,4,8,No,Delivered,15.02,None
+OPS-5606,MetroPostal,3,3,No,Delayed,22.1,None
+OPS-5607,FastTrack Cargo,2,0,No,Cancelled,16.17,Address Not Found
+OPS-5608,FastTrack Cargo,4,5,No,Delivered,15.54,None
+OPS-5609,Express Logistics,5,6,No,Delivered,23.3,None
+OPS-5610,FastTrack Cargo,4,3,Yes,Delivered,11.42,None
+OPS-5611,MetroPostal,5,0,No,Cancelled,23.54,Payment Failure
+OPS-5612,FastTrack Cargo,3,7,No,Delivered,8.71,None
+OPS-5613,Express Logistics,4,0,No,Cancelled,15.78,Stock Issue
+OPS-5614,MetroPostal,5,0,No,Returned,19.34,None
+OPS-5615,FastTrack Cargo,4,7,No,Delivered,9.82,None
+OPS-5616,Express Logistics,5,0,No,Returned,33.11,None
+OPS-5617,Express Logistics,3,6,No,Delivered,10.65,None
+OPS-5618,Express Logistics,4,4,Yes,Delivered,19.54,None
+OPS-5619,MetroPostal,2,1,Yes,Delivered,20.89,None
+OPS-5620,Express Logistics,5,0,No,Cancelled,10.98,Stock Issue
+OPS-5621,SpeedyDelivery,4,4,No,Delayed,16.93,None
+OPS-5622,MetroPostal,5,9,No,Delivered,22.47,None
+OPS-5623,Express Logistics,5,8,No,Delivered,25.24,None
+OPS-5624,FastTrack Cargo,2,0,No,Returned,17.99,None
+OPS-5625,SpeedyDelivery,3,2,Yes,Delivered,18.81,None
+OPS-5626,Express Logistics,3,2,Yes,Delivered,13.22,None
+OPS-5627,MetroPostal,4,8,No,Delivered,8.98,None
+OPS-5628,SpeedyDelivery,3,4,No,Delivered,27.39,None
+OPS-5629,Express Logistics,3,2,Yes,Delivered,18.79,None
+OPS-5630,MetroPostal,2,3,No,Delivered,10.42,None
+OPS-5631,SpeedyDelivery,3,0,No,Returned,8.99,None
+OPS-5632,MetroPostal,3,3,No,Delayed,30.14,None
+OPS-5633,FastTrack Cargo,3,3,Yes,Delivered,15.59,None
+OPS-5634,Express Logistics,3,6,No,Delivered,11.83,None
+OPS-5635,FastTrack Cargo,4,6,No,Delivered,12.07,None
+OPS-5636,Express Logistics,2,1,Yes,Delivered,11.4,None
+OPS-5637,FastTrack Cargo,4,4,Yes,Delivered,14.2,None
+OPS-5638,Express Logistics,3,7,No,Delivered,12.94,None
+OPS-5639,FastTrack Cargo,5,0,No,Cancelled,32.86,Customer Request
+OPS-5640,FastTrack Cargo,3,7,No,Delivered,23.74,None
+OPS-5641,SpeedyDelivery,4,5,No,Delayed,11.72,None
+OPS-5642,SpeedyDelivery,5,6,No,Delivered,28.2,None
+OPS-5643,SpeedyDelivery,5,0,No,Cancelled,19.42,Customer Request
+OPS-5644,FastTrack Cargo,5,7,No,Delivered,13.43,None
+OPS-5645,FastTrack Cargo,2,0,No,Returned,27.11,None
+OPS-5646,SpeedyDelivery,5,7,No,Delivered,24.73,None
+OPS-5647,MetroPostal,3,0,No,Returned,15.56,None
+OPS-5648,SpeedyDelivery,5,5,Yes,Delivered,17.58,None
+OPS-5649,Express Logistics,3,5,No,Delivered,33.54,None
+OPS-5650,MetroPostal,4,7,No,Delivered,30.1,None
+OPS-5651,SpeedyDelivery,5,5,No,Delayed,17.93,None
+OPS-5652,FastTrack Cargo,2,0,No,Returned,24.3,None
+OPS-5653,MetroPostal,4,3,No,Delayed,15.3,None
+OPS-5654,SpeedyDelivery,3,5,No,Delivered,30.15,None
+OPS-5655,SpeedyDelivery,4,6,No,Delivered,28.33,None
+OPS-5656,SpeedyDelivery,5,9,No,Delayed,16.6,None
+OPS-5657,FastTrack Cargo,3,6,No,Delivered,23.3,None
+OPS-5658,MetroPostal,4,8,No,Delivered,14.87,None
+OPS-5659,SpeedyDelivery,5,7,No,Delivered,32.06,None
+OPS-5660,FastTrack Cargo,2,3,No,Delivered,20.61,None
+OPS-5661,FastTrack Cargo,5,0,No,Returned,30.52,None
+OPS-5662,MetroPostal,3,4,No,Delivered,15.42,None
+OPS-5663,SpeedyDelivery,4,7,No,Delayed,27.6,None
+OPS-5664,FastTrack Cargo,2,0,No,Returned,19.03,None
+OPS-5665,Express Logistics,3,4,No,Delayed,22.92,None
+OPS-5666,FastTrack Cargo,2,0,No,Cancelled,19.09,Payment Failure
+OPS-5667,FastTrack Cargo,2,0,No,Returned,11.09,None
+OPS-5668,FastTrack Cargo,5,0,No,Returned,10.75,None
+OPS-5669,FastTrack Cargo,5,5,Yes,Delivered,20.59,None
+OPS-5670,MetroPostal,5,9,No,Delivered,12.73,None
+OPS-5671,Express Logistics,4,7,No,Delivered,24.15,None
+OPS-5672,MetroPostal,2,0,No,Cancelled,22.68,Address Not Found
+OPS-5673,MetroPostal,4,0,No,Returned,23.13,None
+OPS-5674,Express Logistics,2,3,No,Delivered,18.65,None
+OPS-5675,FastTrack Cargo,4,0,No,Cancelled,28.47,Stock Issue
+OPS-5676,MetroPostal,4,8,No,Delivered,15.59,None
+OPS-5677,FastTrack Cargo,3,0,No,Returned,18.41,None
+OPS-5678,SpeedyDelivery,5,5,Yes,Delivered,31.89,None
+OPS-5679,FastTrack Cargo,2,0,No,Cancelled,20.23,Payment Failure
+OPS-5680,Express Logistics,5,8,No,Delivered,15.19,None
+OPS-5681,Express Logistics,2,0,No,Returned,13.13,None
+OPS-5682,MetroPostal,5,0,No,Returned,26.82,None
+OPS-5683,MetroPostal,5,7,No,Delivered,33.73,None
+OPS-5684,Express Logistics,3,3,No,Delayed,16.88,None
+OPS-5685,Express Logistics,2,4,No,Delivered,11.24,None
+OPS-5686,SpeedyDelivery,2,0,No,Cancelled,11.4,Address Not Found
+OPS-5687,SpeedyDelivery,2,0,No,Returned,27.92,None
+OPS-5688,Express Logistics,3,3,Yes,Delivered,15.44,None
+OPS-5689,SpeedyDelivery,5,9,No,Delivered,19.19,None
+OPS-5690,MetroPostal,3,0,No,Returned,32.9,None
+OPS-5691,SpeedyDelivery,2,0,No,Cancelled,15.68,Payment Failure
+OPS-5692,Express Logistics,2,0,No,Returned,32.85,None
+OPS-5693,MetroPostal,3,2,No,Delayed,10.38,None
+OPS-5694,SpeedyDelivery,2,0,No,Cancelled,11.15,Customer Request
+OPS-5695,SpeedyDelivery,2,0,No,Cancelled,28.18,Customer Request
+OPS-5696,SpeedyDelivery,3,0,No,Returned,31.29,None
+OPS-5697,Express Logistics,5,7,No,Delivered,32.11,None
+OPS-5698,MetroPostal,2,0,No,Cancelled,27.57,Customer Request
+OPS-5699,Express Logistics,4,4,Yes,Delivered,11.61,None
+OPS-5700,FastTrack Cargo,4,5,No,Delivered,22.61,None
+OPS-5701,FastTrack Cargo,3,4,No,Delivered,13.54,None
+OPS-5702,MetroPostal,5,8,No,Delivered,33.6,None
+OPS-5703,Express Logistics,2,2,No,Delayed,31.98,None
+OPS-5704,MetroPostal,2,3,No,Delivered,28.57,None
+OPS-5705,Express Logistics,2,0,No,Returned,28.66,None
+OPS-5706,Express Logistics,3,7,No,Delivered,10.99,None
+OPS-5707,SpeedyDelivery,3,4,No,Delivered,31.61,None
+OPS-5708,Express Logistics,2,3,No,Delivered,10.85,None
+OPS-5709,FastTrack Cargo,5,0,No,Cancelled,30.2,Payment Failure
+OPS-5710,SpeedyDelivery,5,9,No,Delivered,10.41,None
+OPS-5711,FastTrack Cargo,5,8,No,Delayed,17.9,None
+OPS-5712,MetroPostal,5,5,Yes,Delivered,23.93,None
+OPS-5713,FastTrack Cargo,2,0,No,Cancelled,9.46,Stock Issue
+OPS-5714,SpeedyDelivery,2,0,No,Cancelled,25.27,Stock Issue
+OPS-5715,Express Logistics,4,0,No,Cancelled,12.82,Address Not Found
+OPS-5716,Express Logistics,4,3,Yes,Delivered,10.44,None
+OPS-5717,FastTrack Cargo,4,4,Yes,Delivered,16.95,None
+OPS-5718,MetroPostal,5,0,No,Cancelled,33.13,Address Not Found
+OPS-5719,MetroPostal,5,8,No,Delivered,14.96,None
+OPS-5720,SpeedyDelivery,3,4,No,Delivered,12.98,None
+OPS-5721,MetroPostal,4,0,No,Returned,31.28,None
+OPS-5722,Express Logistics,4,5,No,Delivered,20.91,None
+OPS-5723,Express Logistics,5,0,No,Returned,23.39,None
+OPS-5724,SpeedyDelivery,4,0,No,Cancelled,19.36,Payment Failure
+OPS-5725,FastTrack Cargo,2,3,No,Delivered,11.2,None
+OPS-5726,SpeedyDelivery,5,6,No,Delayed,32.45,None
+OPS-5727,MetroPostal,4,5,No,Delivered,28.35,None
+OPS-5728,SpeedyDelivery,3,5,No,Delivered,24.77,None
+OPS-5729,Express Logistics,3,5,No,Delayed,18.81,None
+OPS-5730,SpeedyDelivery,4,3,No,Delayed,15.1,None
+OPS-5731,Express Logistics,2,6,No,Delayed,9.59,None
+OPS-5732,SpeedyDelivery,4,0,No,Returned,11.34,None
+OPS-5733,FastTrack Cargo,5,8,No,Delivered,25.03,None
+OPS-5734,MetroPostal,4,3,Yes,Delivered,28.58,None
+OPS-5735,MetroPostal,2,1,Yes,Delivered,33.19,None
+OPS-5736,MetroPostal,2,6,No,Delayed,15.43,None
+OPS-5737,Express Logistics,3,6,No,Delayed,12.09,None
+OPS-5738,MetroPostal,3,3,No,Delayed,21.29,None
+OPS-5739,Express Logistics,4,8,No,Delivered,12.61,None
+OPS-5740,FastTrack Cargo,3,3,Yes,Delivered,12.96,None
+OPS-5741,FastTrack Cargo,2,5,No,Delivered,15.58,None
+OPS-5742,SpeedyDelivery,3,4,No,Delivered,34.0,None
+OPS-5743,SpeedyDelivery,2,3,No,Delivered,10.85,None
+OPS-5744,SpeedyDelivery,2,2,No,Delayed,18.01,None
+OPS-5745,Express Logistics,2,0,No,Returned,32.37,None
+OPS-5746,SpeedyDelivery,2,0,No,Returned,29.56,None
+OPS-5747,SpeedyDelivery,4,6,No,Delivered,32.15,None
+OPS-5748,FastTrack Cargo,3,0,No,Returned,32.05,None
+OPS-5749,Express Logistics,4,3,No,Delayed,24.81,None
+OPS-5750,SpeedyDelivery,2,5,No,Delayed,27.86,None
+OPS-5751,FastTrack Cargo,3,6,No,Delivered,8.94,None
+OPS-5752,Express Logistics,4,3,Yes,Delivered,24.36,None
+OPS-5753,SpeedyDelivery,4,3,Yes,Delivered,24.14,None
+OPS-5754,FastTrack Cargo,2,0,No,Cancelled,32.21,Payment Failure
+OPS-5755,SpeedyDelivery,5,7,No,Delayed,15.84,None
+OPS-5756,FastTrack Cargo,2,0,No,Cancelled,12.97,Address Not Found
+OPS-5757,Express Logistics,3,4,No,Delayed,21.19,None
+OPS-5758,Express Logistics,3,0,No,Returned,20.35,None
+OPS-5759,Express Logistics,3,0,No,Returned,10.98,None
+OPS-5760,MetroPostal,3,7,No,Delivered,18.76,None
+OPS-5761,Express Logistics,4,7,No,Delivered,16.74,None
+OPS-5762,SpeedyDelivery,4,7,No,Delayed,23.09,None
+OPS-5763,Express Logistics,4,0,No,Cancelled,13.26,Customer Request
+OPS-5764,MetroPostal,5,0,No,Cancelled,22.94,Customer Request
+OPS-5765,SpeedyDelivery,3,6,No,Delivered,24.0,None
+OPS-5766,MetroPostal,5,4,Yes,Delivered,27.06,None
+OPS-5767,MetroPostal,5,7,No,Delivered,14.64,None
+OPS-5768,MetroPostal,4,6,No,Delivered,31.29,None
+OPS-5769,Express Logistics,4,4,No,Delayed,19.83,None
+OPS-5770,Express Logistics,5,9,No,Delivered,22.78,None
+OPS-5771,SpeedyDelivery,2,0,No,Cancelled,12.07,Address Not Found
+OPS-5772,Express Logistics,4,0,No,Cancelled,13.46,Stock Issue
+OPS-5773,FastTrack Cargo,5,0,No,Returned,16.04,None
+OPS-5774,SpeedyDelivery,5,5,No,Delayed,16.74,None
+OPS-5775,Express Logistics,4,0,No,Cancelled,25.72,Address Not Found
+OPS-5776,FastTrack Cargo,3,3,Yes,Delivered,16.19,None
+OPS-5777,Express Logistics,4,3,Yes,Delivered,20.09,None
+OPS-5778,FastTrack Cargo,2,6,No,Delivered,16.94,None
+OPS-5779,FastTrack Cargo,2,3,No,Delayed,22.13,None
+OPS-5780,SpeedyDelivery,4,7,No,Delayed,32.17,None
+OPS-5781,MetroPostal,5,8,No,Delivered,29.13,None
+OPS-5782,Express Logistics,4,4,Yes,Delivered,17.91,None
+OPS-5783,Express Logistics,3,3,Yes,Delivered,25.26,None
+OPS-5784,SpeedyDelivery,4,0,No,Returned,17.65,None
+OPS-5785,FastTrack Cargo,4,8,No,Delivered,22.21,None
+OPS-5786,FastTrack Cargo,5,0,No,Cancelled,14.27,Payment Failure
+OPS-5787,Express Logistics,5,7,No,Delivered,13.19,None
+OPS-5788,Express Logistics,3,2,No,Delayed,20.88,None
+OPS-5789,FastTrack Cargo,3,0,No,Cancelled,29.65,Customer Request
+OPS-5790,SpeedyDelivery,5,7,No,Delivered,22.31,None
+OPS-5791,FastTrack Cargo,4,8,No,Delivered,14.64,None
+OPS-5792,FastTrack Cargo,5,8,No,Delayed,13.85,None
+OPS-5793,Express Logistics,3,3,No,Delayed,29.39,None
+OPS-5794,Express Logistics,2,2,Yes,Delivered,23.45,None
+OPS-5795,Express Logistics,4,3,Yes,Delivered,13.22,None
+OPS-5796,Express Logistics,2,6,No,Delayed,23.42,None
+OPS-5797,Express Logistics,3,0,No,Cancelled,24.9,Address Not Found
+OPS-5798,SpeedyDelivery,3,0,No,Cancelled,20.98,Stock Issue
+OPS-5799,Express Logistics,2,0,No,Cancelled,8.55,Customer Request
+OPS-5800,FastTrack Cargo,4,0,No,Returned,19.47,None
+OPS-5801,MetroPostal,3,4,No,Delivered,18.1,None
+OPS-5802,SpeedyDelivery,5,0,No,Returned,10.13,None
+OPS-5803,SpeedyDelivery,4,3,Yes,Delivered,27.04,None
+OPS-5804,FastTrack Cargo,2,3,No,Delivered,28.75,None
+OPS-5805,SpeedyDelivery,3,0,No,Returned,11.99,None
+OPS-5806,FastTrack Cargo,5,9,No,Delivered,24.5,None
+OPS-5807,MetroPostal,2,0,No,Cancelled,15.76,Stock Issue
+OPS-5808,SpeedyDelivery,4,4,No,Delayed,19.82,None
+OPS-5809,Express Logistics,4,0,No,Cancelled,32.6,Payment Failure
+OPS-5810,FastTrack Cargo,2,0,No,Returned,31.96,None
+OPS-5811,MetroPostal,5,7,No,Delayed,26.64,None
+OPS-5812,SpeedyDelivery,4,4,Yes,Delivered,25.3,None
+OPS-5813,MetroPostal,3,2,Yes,Delivered,28.49,None
+OPS-5814,FastTrack Cargo,2,0,No,Cancelled,29.44,Payment Failure
+OPS-5815,MetroPostal,2,0,No,Cancelled,18.87,Customer Request
+OPS-5816,Express Logistics,3,3,Yes,Delivered,10.27,None
+OPS-5817,Express Logistics,5,9,No,Delayed,22.45,None
+OPS-5818,MetroPostal,5,9,No,Delivered,29.56,None
+OPS-5819,MetroPostal,4,4,Yes,Delivered,11.95,None
+OPS-5820,FastTrack Cargo,5,0,No,Returned,11.64,None
+OPS-5821,SpeedyDelivery,3,0,No,Cancelled,10.33,Address Not Found
+OPS-5822,MetroPostal,4,0,No,Returned,25.0,None
+OPS-5823,SpeedyDelivery,3,5,No,Delayed,10.64,None
+OPS-5824,SpeedyDelivery,4,4,Yes,Delivered,9.05,None
+OPS-5825,Express Logistics,3,0,No,Returned,20.07,None
+OPS-5826,SpeedyDelivery,3,3,Yes,Delivered,26.43,None
+OPS-5827,Express Logistics,3,4,No,Delivered,19.65,None
+OPS-5828,MetroPostal,3,3,No,Delayed,33.26,None
+OPS-5829,SpeedyDelivery,5,9,No,Delivered,22.62,None
+OPS-5830,MetroPostal,4,7,No,Delayed,10.33,None
+OPS-5831,SpeedyDelivery,3,2,Yes,Delivered,10.9,None
+OPS-5832,SpeedyDelivery,2,0,No,Returned,29.27,None
+OPS-5833,SpeedyDelivery,5,7,No,Delivered,15.97,None
+OPS-5834,MetroPostal,3,4,No,Delayed,10.12,None
+OPS-5835,FastTrack Cargo,3,4,No,Delayed,16.56,None
+OPS-5836,SpeedyDelivery,3,5,No,Delivered,32.73,None
+OPS-5837,SpeedyDelivery,5,0,No,Returned,16.51,None
+OPS-5838,MetroPostal,5,0,No,Cancelled,33.42,Payment Failure
+OPS-5839,MetroPostal,4,0,No,Cancelled,23.51,Address Not Found
+OPS-5840,FastTrack Cargo,4,8,No,Delivered,17.87,None
+OPS-5841,Express Logistics,4,6,No,Delivered,24.45,None
+OPS-5842,SpeedyDelivery,5,8,No,Delivered,11.81,None
+OPS-5843,MetroPostal,5,8,No,Delivered,32.18,None
+OPS-5844,Express Logistics,2,4,No,Delivered,28.03,None
+OPS-5845,MetroPostal,5,5,No,Delayed,23.73,None
+OPS-5846,FastTrack Cargo,4,0,No,Returned,26.4,None
+OPS-5847,MetroPostal,3,0,No,Cancelled,15.06,Payment Failure
+OPS-5848,FastTrack Cargo,3,6,No,Delivered,11.31,None
+OPS-5849,MetroPostal,4,0,No,Returned,31.48,None
+OPS-5850,FastTrack Cargo,3,4,No,Delivered,31.27,None
+OPS-5851,MetroPostal,2,0,No,Cancelled,15.82,Payment Failure
+OPS-5852,MetroPostal,5,0,No,Returned,30.38,None
+OPS-5853,FastTrack Cargo,2,5,No,Delivered,15.93,None
+OPS-5854,Express Logistics,2,2,No,Delayed,14.37,None
+OPS-5855,FastTrack Cargo,4,6,No,Delivered,22.67,None
+OPS-5856,FastTrack Cargo,3,5,No,Delivered,24.95,None
+OPS-5857,FastTrack Cargo,2,0,No,Returned,32.12,None
+OPS-5858,SpeedyDelivery,2,6,No,Delivered,32.02,None
+OPS-5859,MetroPostal,5,4,No,Delayed,18.58,None
+OPS-5860,MetroPostal,3,0,No,Returned,25.61,None
+OPS-5861,MetroPostal,2,1,Yes,Delivered,10.22,None
+OPS-5862,FastTrack Cargo,2,1,Yes,Delivered,31.23,None
+OPS-5863,SpeedyDelivery,4,0,No,Cancelled,11.73,Payment Failure
+OPS-5864,FastTrack Cargo,3,5,No,Delivered,30.15,None
+OPS-5865,MetroPostal,3,7,No,Delivered,22.28,None
+OPS-5866,MetroPostal,2,6,No,Delayed,13.77,None
+OPS-5867,Express Logistics,4,7,No,Delivered,31.89,None
+OPS-5868,MetroPostal,3,0,No,Cancelled,9.11,Payment Failure
+OPS-5869,MetroPostal,2,1,Yes,Delivered,30.61,None
+OPS-5870,FastTrack Cargo,4,3,Yes,Delivered,31.66,None
+OPS-5871,FastTrack Cargo,2,6,No,Delivered,33.21,None
+OPS-5872,Express Logistics,2,3,No,Delivered,15.94,None
+OPS-5873,Express Logistics,4,7,No,Delayed,26.74,None
+OPS-5874,Express Logistics,2,0,No,Cancelled,14.03,Customer Request
+OPS-5875,SpeedyDelivery,2,1,Yes,Delivered,15.69,None
+OPS-5876,SpeedyDelivery,2,3,No,Delivered,18.84,None
+OPS-5877,SpeedyDelivery,3,4,No,Delivered,13.37,None
+OPS-5878,Express Logistics,3,5,No,Delivered,16.41,None
+OPS-5879,SpeedyDelivery,2,2,Yes,Delivered,9.57,None
+OPS-5880,Express Logistics,5,8,No,Delivered,32.25,None
+OPS-5881,MetroPostal,5,4,Yes,Delivered,20.92,None
+OPS-5882,MetroPostal,4,0,No,Cancelled,9.42,Customer Request
+OPS-5883,FastTrack Cargo,2,4,No,Delayed,31.39,None
+OPS-5884,FastTrack Cargo,2,4,No,Delayed,10.88,None
+OPS-5885,SpeedyDelivery,5,0,No,Cancelled,19.32,Stock Issue
+OPS-5886,Express Logistics,5,7,No,Delivered,19.68,None
+OPS-5887,FastTrack Cargo,3,0,No,Returned,12.58,None
+OPS-5888,Express Logistics,2,6,No,Delayed,16.68,None
+OPS-5889,Express Logistics,3,4,No,Delivered,13.33,None
+OPS-5890,SpeedyDelivery,2,0,No,Returned,23.5,None
+OPS-5891,MetroPostal,5,9,No,Delivered,12.32,None
+OPS-5892,SpeedyDelivery,4,4,Yes,Delivered,33.68,None
+OPS-5893,FastTrack Cargo,3,5,No,Delivered,18.7,None
+OPS-5894,FastTrack Cargo,5,9,No,Delivered,20.79,None
+OPS-5895,Express Logistics,4,7,No,Delivered,29.27,None
+OPS-5896,MetroPostal,5,8,No,Delayed,30.66,None
+OPS-5897,Express Logistics,2,2,Yes,Delivered,28.61,None
+OPS-5898,SpeedyDelivery,3,5,No,Delivered,13.06,None
+OPS-5899,MetroPostal,3,4,No,Delayed,16.57,None
+OPS-5900,SpeedyDelivery,2,0,No,Returned,12.7,None
+OPS-5901,FastTrack Cargo,4,0,No,Cancelled,32.56,Stock Issue
+OPS-5902,Express Logistics,2,5,No,Delivered,20.41,None
+OPS-5903,FastTrack Cargo,5,5,Yes,Delivered,31.09,None
+OPS-5904,Express Logistics,5,0,No,Returned,28.02,None
+OPS-5905,FastTrack Cargo,3,0,No,Cancelled,32.73,Stock Issue
+OPS-5906,MetroPostal,2,1,No,Delayed,30.91,None
+OPS-5907,SpeedyDelivery,4,4,Yes,Delivered,26.18,None
+OPS-5908,MetroPostal,5,0,No,Returned,13.56,None
+OPS-5909,Express Logistics,5,4,Yes,Delivered,12.23,None
+OPS-5910,Express Logistics,4,4,Yes,Delivered,13.43,None
+OPS-5911,SpeedyDelivery,3,7,No,Delayed,33.09,None
+OPS-5912,SpeedyDelivery,5,0,No,Returned,30.14,None
+OPS-5913,MetroPostal,2,5,No,Delayed,29.77,None
+OPS-5914,MetroPostal,5,4,Yes,Delivered,18.09,None
+OPS-5915,MetroPostal,5,7,No,Delivered,28.13,None
+OPS-5916,MetroPostal,2,5,No,Delivered,24.04,None
+OPS-5917,MetroPostal,3,0,No,Cancelled,13.47,Payment Failure
+OPS-5918,Express Logistics,4,4,Yes,Delivered,12.62,None
+OPS-5919,SpeedyDelivery,5,9,No,Delivered,26.67,None
+OPS-5920,FastTrack Cargo,3,7,No,Delayed,13.15,None
+OPS-5921,Express Logistics,2,0,No,Cancelled,27.89,Address Not Found
+OPS-5922,Express Logistics,2,3,No,Delayed,26.18,None
+OPS-5923,MetroPostal,3,0,No,Returned,19.24,None
+OPS-5924,Express Logistics,5,9,No,Delivered,23.46,None
+OPS-5925,Express Logistics,2,6,No,Delivered,26.4,None
+OPS-5926,Express Logistics,5,9,No,Delivered,29.63,None
+OPS-5927,FastTrack Cargo,2,1,No,Delayed,21.35,None
+OPS-5928,FastTrack Cargo,4,7,No,Delayed,23.08,None
+OPS-5929,FastTrack Cargo,4,0,No,Returned,30.04,None
+OPS-5930,SpeedyDelivery,5,0,No,Cancelled,30.52,Address Not Found
+OPS-5931,FastTrack Cargo,4,7,No,Delivered,21.26,None
+OPS-5932,FastTrack Cargo,5,4,Yes,Delivered,23.8,None
+OPS-5933,Express Logistics,5,7,No,Delivered,23.04,None
+OPS-5934,SpeedyDelivery,3,7,No,Delayed,21.39,None
+OPS-5935,MetroPostal,5,0,No,Returned,30.25,None
+OPS-5936,FastTrack Cargo,2,2,Yes,Delivered,10.84,None
+OPS-5937,MetroPostal,3,0,No,Returned,29.34,None
+OPS-5938,MetroPostal,4,4,No,Delayed,28.36,None
+OPS-5939,FastTrack Cargo,5,8,No,Delivered,16.99,None
+OPS-5940,FastTrack Cargo,5,0,No,Returned,25.58,None
+OPS-5941,SpeedyDelivery,2,1,Yes,Delivered,26.07,None
+OPS-5942,FastTrack Cargo,5,9,No,Delivered,9.77,None
+OPS-5943,SpeedyDelivery,5,0,No,Returned,28.64,None
+OPS-5944,SpeedyDelivery,2,5,No,Delivered,28.03,None
+OPS-5945,SpeedyDelivery,3,5,No,Delivered,30.87,None
+OPS-5946,MetroPostal,3,0,No,Returned,27.11,None
+OPS-5947,FastTrack Cargo,4,6,No,Delivered,30.05,None
+OPS-5948,FastTrack Cargo,3,2,No,Delayed,10.78,None
+OPS-5949,Express Logistics,2,5,No,Delivered,9.84,None
+OPS-5950,FastTrack Cargo,5,8,No,Delivered,11.41,None
+OPS-5951,Express Logistics,2,2,Yes,Delivered,21.93,None
+OPS-5952,FastTrack Cargo,4,3,Yes,Delivered,17.05,None
+OPS-5953,FastTrack Cargo,2,0,No,Cancelled,24.35,Address Not Found
+OPS-5954,Express Logistics,3,7,No,Delivered,19.81,None
+OPS-5955,MetroPostal,3,5,No,Delivered,18.54,None
+OPS-5956,Express Logistics,2,0,No,Cancelled,12.08,Address Not Found
+OPS-5957,MetroPostal,2,0,No,Cancelled,17.39,Payment Failure
+OPS-5958,MetroPostal,4,0,No,Returned,28.11,None
+OPS-5959,Express Logistics,3,2,Yes,Delivered,33.83,None
+OPS-5960,Express Logistics,4,8,No,Delivered,22.49,None
+OPS-5961,FastTrack Cargo,3,0,No,Returned,8.71,None
+OPS-5962,MetroPostal,3,6,No,Delayed,19.92,None
+OPS-5963,SpeedyDelivery,2,5,No,Delivered,23.41,None
+OPS-5964,Express Logistics,4,0,No,Returned,12.07,None
+OPS-5965,MetroPostal,3,0,No,Cancelled,20.6,Stock Issue
+OPS-5966,SpeedyDelivery,2,0,No,Returned,27.82,None
+OPS-5967,Express Logistics,5,7,No,Delayed,20.71,None
+OPS-5968,Express Logistics,5,0,No,Cancelled,20.71,Address Not Found
+OPS-5969,FastTrack Cargo,3,5,No,Delayed,22.39,None
+OPS-5970,SpeedyDelivery,2,6,No,Delivered,25.2,None
+OPS-5971,FastTrack Cargo,5,5,No,Delayed,23.6,None
+OPS-5972,FastTrack Cargo,5,7,No,Delayed,19.82,None
+OPS-5973,Express Logistics,3,0,No,Cancelled,19.91,Stock Issue
+OPS-5974,Express Logistics,4,4,No,Delayed,13.28,None
+OPS-5975,Express Logistics,4,7,No,Delayed,23.39,None
+OPS-5976,SpeedyDelivery,2,0,No,Cancelled,11.96,Payment Failure
+OPS-5977,MetroPostal,5,5,No,Delayed,19.56,None
+OPS-5978,MetroPostal,4,3,No,Delayed,22.5,None
+OPS-5979,FastTrack Cargo,4,0,No,Cancelled,32.97,Customer Request
+OPS-5980,SpeedyDelivery,2,6,No,Delivered,32.5,None
+OPS-5981,SpeedyDelivery,5,4,Yes,Delivered,31.24,None
+OPS-5982,MetroPostal,5,8,No,Delivered,23.36,None
+OPS-5983,Express Logistics,4,6,No,Delivered,17.45,None
+OPS-5984,Express Logistics,5,0,No,Cancelled,10.55,Customer Request
+OPS-5985,SpeedyDelivery,5,0,No,Cancelled,9.5,Payment Failure
+OPS-5986,Express Logistics,3,4,No,Delivered,15.38,None
+OPS-5987,FastTrack Cargo,5,0,No,Cancelled,22.81,Stock Issue
+OPS-5988,SpeedyDelivery,5,0,No,Returned,33.81,None
+OPS-5989,FastTrack Cargo,2,0,No,Returned,28.24,None
+OPS-5990,FastTrack Cargo,2,1,Yes,Delivered,27.14,None
+OPS-5991,FastTrack Cargo,2,1,Yes,Delivered,24.92,None
+OPS-5992,MetroPostal,2,0,No,Returned,21.08,None
+OPS-5993,FastTrack Cargo,2,0,No,Cancelled,18.74,Payment Failure
+OPS-5994,FastTrack Cargo,3,3,Yes,Delivered,30.2,None
+OPS-5995,MetroPostal,3,0,No,Cancelled,29.43,Customer Request
+OPS-5996,MetroPostal,2,1,Yes,Delivered,28.45,None
+OPS-5997,MetroPostal,3,0,No,Returned,9.01,None
+OPS-5998,FastTrack Cargo,3,5,No,Delivered,25.11,None
+OPS-5999,MetroPostal,4,8,No,Delivered,29.03,None
+OPS-6000,MetroPostal,3,5,No,Delivered,32.6,None
