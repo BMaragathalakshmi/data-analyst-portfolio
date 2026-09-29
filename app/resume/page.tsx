@@ -28,14 +28,26 @@ export default function ResumePage() {
           </p>
         </div>
 
-        <div className="flex items-center gap-3">
-          <button
-            onClick={handlePrint}
+        <div className="flex flex-wrap items-center gap-3">
+          <a
+            href="/MARAGATHALAKSHMI_B_Resume.pdf"
+            download="MARAGATHALAKSHMI_B_Resume.pdf"
             className="px-6 py-2.5 rounded-xl font-bold text-xs font-mono text-white transition-all flex items-center gap-2 shadow-md hover:opacity-90 active:scale-95"
             style={{ backgroundColor: "var(--accent-primary)" }}
           >
             <Download className="w-4 h-4" />
-            <span>Download / Print PDF</span>
+            <span>Download PDF</span>
+          </a>
+          <button
+            onClick={handlePrint}
+            className="px-5 py-2.5 rounded-xl font-bold text-xs font-mono transition-all flex items-center gap-2 border hover:opacity-90 active:scale-95"
+            style={{ 
+              backgroundColor: "var(--bg-surface)",
+              color: "var(--text-primary)",
+              borderColor: "var(--border-color)"
+            }}
+          >
+            <span>Print View</span>
           </button>
         </div>
       </div>
